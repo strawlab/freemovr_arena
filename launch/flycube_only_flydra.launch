@@ -1,0 +1,5 @@
+<launch>
+
+  <include file="$(find freemovr_arena)/launch/flydra.node" />
+
+</launch>

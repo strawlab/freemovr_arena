@@ -1,0 +1,2792 @@
+data:
+- cameras:
+    /Basler_21425986: [229, 191]
+    /Basler_21426003: [556, 272]
+    /Basler_21426009: [500, 354]
+    /Basler_21426018: [118, 343]
+  display:
+    display_server4/fullscreen: [1, 1]
+- cameras:
+    /Basler_21425981: [400, 491]
+    /Basler_21425986: [215, 197]
+    /Basler_21426003: [542, 263]
+    /Basler_21426009: [501, 337]
+    /Basler_21426018: [129, 360]
+  display:
+    display_server4/fullscreen: [1, 108]
+- cameras:
+    /Basler_21425981: [417, 475]
+    /Basler_21425986: [198, 205]
+    /Basler_21426003: [525, 252]
+    /Basler_21426009: [502, 318]
+    /Basler_21426018: [142, 379]
+  display:
+    display_server4/fullscreen: [1, 216]
+- cameras:
+    /Basler_21425981: [435, 453]
+    /Basler_21425986: [182, 213]
+    /Basler_21426003: [509, 242]
+    /Basler_21426009: [503, 298]
+    /Basler_21426018: [156, 399]
+  display:
+    display_server4/fullscreen: [1, 324]
+- cameras:
+    /Basler_21425981: [451, 431]
+    /Basler_21425986: [164, 221]
+    /Basler_21426003: [493, 232]
+    /Basler_21426009: [503, 278]
+    /Basler_21426018: [171, 420]
+  display:
+    display_server4/fullscreen: [1, 432]
+- cameras:
+    /Basler_21425981: [467, 410]
+    /Basler_21425986: [147, 229]
+    /Basler_21426003: [477, 222]
+    /Basler_21426009: [503, 258]
+    /Basler_21426018: [188, 441]
+  display:
+    display_server4/fullscreen: [1, 540]
+- cameras:
+    /Basler_21425981: [481, 389]
+    /Basler_21425986: [130, 238]
+    /Basler_21426003: [461, 212]
+    /Basler_21426009: [503, 238]
+    /Basler_21426018: [205, 463]
+  display:
+    display_server4/fullscreen: [1, 648]
+- cameras:
+    /Basler_21425981: [495, 368]
+    /Basler_21425986: [112, 246]
+    /Basler_21426003: [445, 203]
+    /Basler_21426009: [503, 218]
+    /Basler_21426018: [224, 485]
+  display:
+    display_server4/fullscreen: [1, 756]
+- cameras:
+    /Basler_21425981: [507, 349]
+    /Basler_21425986: [94, 255]
+    /Basler_21426003: [430, 194]
+    /Basler_21426009: [503, 198]
+  display:
+    display_server4/fullscreen: [1, 864]
+- cameras:
+    /Basler_21425981: [519, 330]
+    /Basler_21425986: [76, 264]
+    /Basler_21426003: [415, 185]
+    /Basler_21426009: [502, 178]
+  display:
+    display_server4/fullscreen: [1, 972]
+- cameras:
+    /Basler_21425981: [345, 487]
+    /Basler_21425986: [246, 206]
+    /Basler_21426003: [544, 292]
+    /Basler_21426009: [469, 356]
+    /Basler_21426018: [152, 321]
+  display:
+    display_server4/fullscreen: [192, 1]
+- cameras:
+    /Basler_21425981: [362, 469]
+    /Basler_21425986: [231, 213]
+    /Basler_21426003: [529, 282]
+    /Basler_21426009: [470, 339]
+    /Basler_21426018: [163, 337]
+  display:
+    display_server4/fullscreen: [192, 108]
+- cameras:
+    /Basler_21425981: [380, 448]
+    /Basler_21425986: [214, 221]
+    /Basler_21426003: [512, 270]
+    /Basler_21426009: [471, 319]
+    /Basler_21426018: [177, 355]
+  display:
+    display_server4/fullscreen: [192, 216]
+- cameras:
+    /Basler_21425981: [398, 427]
+    /Basler_21425986: [197, 230]
+    /Basler_21426003: [495, 259]
+    /Basler_21426009: [471, 300]
+    /Basler_21426018: [192, 374]
+  display:
+    display_server4/fullscreen: [192, 324]
+- cameras:
+    /Basler_21425981: [415, 406]
+    /Basler_21425986: [179, 239]
+    /Basler_21426003: [478, 248]
+    /Basler_21426009: [471, 279]
+    /Basler_21426018: [208, 393]
+  display:
+    display_server4/fullscreen: [192, 432]
+- cameras:
+    /Basler_21425981: [431, 385]
+    /Basler_21425986: [161, 248]
+    /Basler_21426003: [461, 238]
+    /Basler_21426009: [472, 259]
+    /Basler_21426018: [224, 414]
+  display:
+    display_server4/fullscreen: [192, 540]
+- cameras:
+    /Basler_21425981: [446, 366]
+    /Basler_21425986: [143, 257]
+    /Basler_21426003: [445, 228]
+    /Basler_21426009: [472, 239]
+    /Basler_21426018: [242, 434]
+  display:
+    display_server4/fullscreen: [192, 648]
+- cameras:
+    /Basler_21425981: [460, 346]
+    /Basler_21425986: [124, 266]
+    /Basler_21426003: [428, 218]
+    /Basler_21426009: [471, 218]
+    /Basler_21426018: [261, 455]
+  display:
+    display_server4/fullscreen: [192, 756]
+- cameras:
+    /Basler_21425981: [473, 328]
+    /Basler_21425986: [105, 276]
+    /Basler_21426003: [413, 208]
+    /Basler_21426009: [471, 198]
+    /Basler_21426018: [280, 476]
+  display:
+    display_server4/fullscreen: [192, 864]
+- cameras:
+    /Basler_21425981: [485, 310]
+    /Basler_21425986: [86, 285]
+    /Basler_21426003: [398, 199]
+    /Basler_21426009: [470, 178]
+    /Basler_21426018: [301, 491]
+  display:
+    display_server4/fullscreen: [192, 972]
+- cameras:
+    /Basler_21425981: [308, 456]
+    /Basler_21425986: [265, 224]
+    /Basler_21426003: [530, 315]
+    /Basler_21426009: [435, 358]
+    /Basler_21426018: [187, 298]
+  display:
+    display_server4/fullscreen: [384, 1]
+- cameras:
+    /Basler_21425981: [325, 438]
+    /Basler_21425986: [250, 231]
+    /Basler_21426003: [514, 304]
+    /Basler_21426009: [436, 341]
+    /Basler_21426018: [199, 313]
+  display:
+    display_server4/fullscreen: [384, 108]
+- cameras:
+    /Basler_21425981: [343, 418]
+    /Basler_21425986: [233, 240]
+    /Basler_21426003: [495, 292]
+    /Basler_21426009: [436, 321]
+    /Basler_21426018: [213, 330]
+  display:
+    display_server4/fullscreen: [384, 216]
+- cameras:
+    /Basler_21425981: [361, 399]
+    /Basler_21425986: [215, 250]
+    /Basler_21426003: [478, 280]
+    /Basler_21426009: [437, 301]
+    /Basler_21426018: [229, 348]
+  display:
+    display_server4/fullscreen: [384, 324]
+- cameras:
+    /Basler_21425981: [378, 379]
+    /Basler_21425986: [196, 259]
+    /Basler_21426003: [460, 268]
+    /Basler_21426009: [437, 280]
+    /Basler_21426018: [245, 366]
+  display:
+    display_server4/fullscreen: [384, 432]
+- cameras:
+    /Basler_21425981: [394, 360]
+    /Basler_21425986: [177, 269]
+    /Basler_21426003: [443, 257]
+    /Basler_21426009: [437, 260]
+    /Basler_21426018: [262, 385]
+  display:
+    display_server4/fullscreen: [384, 540]
+- cameras:
+    /Basler_21425981: [409, 341]
+    /Basler_21425986: [158, 279]
+    /Basler_21426003: [426, 246]
+    /Basler_21426009: [437, 239]
+    /Basler_21426018: [280, 405]
+  display:
+    display_server4/fullscreen: [384, 648]
+- cameras:
+    /Basler_21425981: [424, 323]
+    /Basler_21425986: [139, 289]
+    /Basler_21426003: [409, 235]
+    /Basler_21426009: [437, 219]
+    /Basler_21426018: [298, 424]
+  display:
+    display_server4/fullscreen: [384, 756]
+- cameras:
+    /Basler_21425981: [437, 306]
+    /Basler_21425986: [119, 299]
+    /Basler_21426003: [393, 225]
+    /Basler_21426009: [436, 198]
+    /Basler_21426018: [318, 444]
+  display:
+    display_server4/fullscreen: [384, 864]
+- cameras:
+    /Basler_21425981: [450, 289]
+    /Basler_21425986: [99, 310]
+    /Basler_21426003: [377, 215]
+    /Basler_21426009: [436, 178]
+    /Basler_21426018: [338, 464]
+  display:
+    display_server4/fullscreen: [384, 972]
+- cameras:
+    /Basler_21425981: [274, 425]
+    /Basler_21425986: [287, 243]
+    /Basler_21426003: [513, 341]
+    /Basler_21426009: [400, 359]
+    /Basler_21426018: [221, 277]
+  display:
+    display_server4/fullscreen: [576, 1]
+- cameras:
+    /Basler_21425981: [291, 408]
+    /Basler_21425986: [271, 251]
+    /Basler_21426003: [496, 329]
+    /Basler_21426009: [400, 342]
+    /Basler_21426018: [233, 290]
+  display:
+    display_server4/fullscreen: [576, 108]
+- cameras:
+    /Basler_21425981: [308, 390]
+    /Basler_21425986: [253, 261]
+    /Basler_21426003: [477, 315]
+    /Basler_21426009: [401, 322]
+    /Basler_21426018: [248, 306]
+  display:
+    display_server4/fullscreen: [576, 216]
+- cameras:
+    /Basler_21425981: [326, 371]
+    /Basler_21425986: [235, 271]
+    /Basler_21426003: [458, 303]
+    /Basler_21426009: [401, 302]
+    /Basler_21426018: [263, 323]
+  display:
+    display_server4/fullscreen: [576, 324]
+- cameras:
+    /Basler_21425981: [343, 353]
+    /Basler_21425986: [216, 282]
+    /Basler_21426003: [440, 290]
+    /Basler_21426009: [401, 281]
+    /Basler_21426018: [280, 340]
+  display:
+    display_server4/fullscreen: [576, 432]
+- cameras:
+    /Basler_21425981: [359, 335]
+    /Basler_21425986: [196, 292]
+    /Basler_21426003: [422, 278]
+    /Basler_21426009: [401, 260]
+    /Basler_21426018: [297, 358]
+  display:
+    display_server4/fullscreen: [576, 540]
+- cameras:
+    /Basler_21425981: [374, 318]
+    /Basler_21425986: [176, 303]
+    /Basler_21426003: [404, 266]
+    /Basler_21426009: [401, 240]
+    /Basler_21426018: [315, 376]
+  display:
+    display_server4/fullscreen: [576, 648]
+- cameras:
+    /Basler_21425981: [389, 301]
+    /Basler_21425986: [156, 315]
+    /Basler_21426003: [387, 254]
+    /Basler_21426009: [401, 219]
+    /Basler_21426018: [333, 394]
+  display:
+    display_server4/fullscreen: [576, 756]
+- cameras:
+    /Basler_21425981: [403, 285]
+    /Basler_21425986: [135, 326]
+    /Basler_21426003: [370, 243]
+    /Basler_21426009: [400, 198]
+    /Basler_21426018: [352, 412]
+  display:
+    display_server4/fullscreen: [576, 864]
+- cameras:
+    /Basler_21425981: [416, 269]
+    /Basler_21425986: [114, 337]
+    /Basler_21426003: [354, 232]
+    /Basler_21426009: [400, 177]
+    /Basler_21426018: [372, 431]
+  display:
+    display_server4/fullscreen: [576, 972]
+- cameras:
+    /Basler_21425981: [244, 396]
+    /Basler_21425986: [311, 264]
+    /Basler_21426003: [493, 369]
+    /Basler_21426009: [364, 360]
+    /Basler_21426018: [253, 257]
+  display:
+    display_server4/fullscreen: [768, 1]
+- cameras:
+    /Basler_21425981: [260, 380]
+    /Basler_21425986: [295, 273]
+    /Basler_21426003: [475, 356]
+    /Basler_21426009: [364, 343]
+    /Basler_21426018: [266, 269]
+  display:
+    display_server4/fullscreen: [768, 108]
+- cameras:
+    /Basler_21425981: [277, 363]
+    /Basler_21425986: [276, 284]
+    /Basler_21426003: [456, 342]
+    /Basler_21426009: [364, 323]
+    /Basler_21426018: [280, 284]
+  display:
+    display_server4/fullscreen: [768, 216]
+- cameras:
+    /Basler_21425981: [294, 346]
+    /Basler_21425986: [257, 295]
+    /Basler_21426003: [436, 328]
+    /Basler_21426009: [364, 302]
+    /Basler_21426018: [296, 299]
+  display:
+    display_server4/fullscreen: [768, 324]
+- cameras:
+    /Basler_21425981: [311, 329]
+    /Basler_21425986: [237, 307]
+    /Basler_21426003: [417, 314]
+    /Basler_21426009: [364, 282]
+    /Basler_21426018: [312, 315]
+  display:
+    display_server4/fullscreen: [768, 432]
+- cameras:
+    /Basler_21425981: [327, 312]
+    /Basler_21425986: [217, 319]
+    /Basler_21426003: [398, 301]
+    /Basler_21426009: [364, 261]
+    /Basler_21426018: [329, 332]
+  display:
+    display_server4/fullscreen: [768, 540]
+- cameras:
+    /Basler_21425981: [342, 296]
+    /Basler_21425986: [196, 331]
+    /Basler_21426003: [380, 288]
+    /Basler_21426009: [364, 240]
+    /Basler_21426018: [347, 348]
+  display:
+    display_server4/fullscreen: [768, 648]
+- cameras:
+    /Basler_21425981: [357, 280]
+    /Basler_21425986: [175, 343]
+    /Basler_21426003: [363, 275]
+    /Basler_21426009: [364, 219]
+    /Basler_21426018: [365, 365]
+  display:
+    display_server4/fullscreen: [768, 756]
+- cameras:
+    /Basler_21425981: [371, 265]
+    /Basler_21425986: [154, 355]
+    /Basler_21426003: [346, 263]
+    /Basler_21426009: [364, 198]
+    /Basler_21426018: [384, 383]
+  display:
+    display_server4/fullscreen: [768, 864]
+- cameras:
+    /Basler_21425981: [385, 251]
+    /Basler_21425986: [132, 368]
+    /Basler_21426003: [329, 251]
+    /Basler_21426009: [363, 177]
+    /Basler_21426018: [403, 400]
+  display:
+    display_server4/fullscreen: [768, 972]
+- cameras:
+    /Basler_21425981: [217, 368]
+    /Basler_21425986: [337, 287]
+    /Basler_21426003: [470, 400]
+    /Basler_21426009: [328, 361]
+    /Basler_21426018: [283, 238]
+  display:
+    display_server4/fullscreen: [960, 1]
+- cameras:
+    /Basler_21425981: [232, 354]
+    /Basler_21425986: [321, 297]
+    /Basler_21426003: [452, 386]
+    /Basler_21426009: [328, 343]
+    /Basler_21426018: [296, 250]
+  display:
+    display_server4/fullscreen: [960, 108]
+- cameras:
+    /Basler_21425981: [249, 338]
+    /Basler_21425986: [302, 309]
+    /Basler_21426003: [431, 371]
+    /Basler_21426009: [328, 323]
+    /Basler_21426018: [311, 263]
+  display:
+    display_server4/fullscreen: [960, 216]
+- cameras:
+    /Basler_21425981: [266, 322]
+    /Basler_21425986: [282, 321]
+    /Basler_21426003: [411, 355]
+    /Basler_21426009: [328, 303]
+    /Basler_21426018: [326, 278]
+  display:
+    display_server4/fullscreen: [960, 324]
+- cameras:
+    /Basler_21425981: [282, 306]
+    /Basler_21425986: [262, 334]
+    /Basler_21426003: [391, 340]
+    /Basler_21426009: [327, 282]
+    /Basler_21426018: [342, 292]
+  display:
+    display_server4/fullscreen: [960, 432]
+- cameras:
+    /Basler_21425981: [298, 291]
+    /Basler_21425986: [241, 347]
+    /Basler_21426003: [372, 326]
+    /Basler_21426009: [327, 261]
+    /Basler_21426018: [359, 307]
+  display:
+    display_server4/fullscreen: [960, 540]
+- cameras:
+    /Basler_21425981: [313, 276]
+    /Basler_21425986: [219, 360]
+    /Basler_21426003: [354, 312]
+    /Basler_21426009: [327, 240]
+    /Basler_21426018: [376, 323]
+  display:
+    display_server4/fullscreen: [960, 648]
+- cameras:
+    /Basler_21425981: [328, 261]
+    /Basler_21425986: [197, 374]
+    /Basler_21426003: [336, 298]
+    /Basler_21426009: [327, 219]
+    /Basler_21426018: [394, 339]
+  display:
+    display_server4/fullscreen: [960, 756]
+- cameras:
+    /Basler_21425981: [342, 247]
+    /Basler_21425986: [175, 387]
+    /Basler_21426003: [318, 285]
+    /Basler_21426009: [327, 198]
+    /Basler_21426018: [412, 355]
+  display:
+    display_server4/fullscreen: [960, 864]
+- cameras:
+    /Basler_21425981: [355, 234]
+    /Basler_21425986: [152, 401]
+    /Basler_21426003: [302, 272]
+    /Basler_21426009: [327, 178]
+    /Basler_21426018: [430, 371]
+  display:
+    display_server4/fullscreen: [960, 972]
+- cameras:
+    /Basler_21425981: [194, 343]
+    /Basler_21425986: [365, 312]
+    /Basler_21426003: [444, 434]
+    /Basler_21426009: [292, 361]
+    /Basler_21426018: [310, 221]
+  display:
+    display_server4/fullscreen: [1152, 1]
+- cameras:
+    /Basler_21425981: [208, 330]
+    /Basler_21425986: [349, 323]
+    /Basler_21426003: [424, 419]
+    /Basler_21426009: [292, 343]
+    /Basler_21426018: [323, 232]
+  display:
+    display_server4/fullscreen: [1152, 108]
+- cameras:
+    /Basler_21425981: [224, 314]
+    /Basler_21425986: [330, 336]
+    /Basler_21426003: [403, 402]
+    /Basler_21426009: [291, 323]
+    /Basler_21426018: [338, 244]
+  display:
+    display_server4/fullscreen: [1152, 216]
+- cameras:
+    /Basler_21425981: [240, 300]
+    /Basler_21425986: [310, 350]
+    /Basler_21426003: [383, 385]
+    /Basler_21426009: [291, 303]
+    /Basler_21426018: [353, 258]
+  display:
+    display_server4/fullscreen: [1152, 324]
+- cameras:
+    /Basler_21425981: [256, 285]
+    /Basler_21425986: [289, 364]
+    /Basler_21426003: [362, 369]
+    /Basler_21426009: [291, 282]
+    /Basler_21426018: [369, 271]
+  display:
+    display_server4/fullscreen: [1152, 432]
+- cameras:
+    /Basler_21425981: [271, 271]
+    /Basler_21425986: [268, 378]
+    /Basler_21426003: [343, 353]
+    /Basler_21426009: [290, 262]
+    /Basler_21426018: [385, 285]
+  display:
+    display_server4/fullscreen: [1152, 540]
+- cameras:
+    /Basler_21425981: [286, 257]
+    /Basler_21425986: [246, 393]
+    /Basler_21426003: [324, 338]
+    /Basler_21426009: [290, 241]
+    /Basler_21426018: [402, 299]
+  display:
+    display_server4/fullscreen: [1152, 648]
+- cameras:
+    /Basler_21425981: [301, 243]
+    /Basler_21425986: [223, 407]
+    /Basler_21426003: [306, 323]
+    /Basler_21426009: [290, 220]
+    /Basler_21426018: [419, 314]
+  display:
+    display_server4/fullscreen: [1152, 756]
+- cameras:
+    /Basler_21425981: [315, 230]
+    /Basler_21425986: [200, 422]
+    /Basler_21426003: [289, 308]
+    /Basler_21426009: [290, 199]
+    /Basler_21426018: [437, 329]
+  display:
+    display_server4/fullscreen: [1152, 864]
+- cameras:
+    /Basler_21425981: [328, 218]
+    /Basler_21425986: [176, 437]
+    /Basler_21426003: [272, 295]
+    /Basler_21426009: [290, 178]
+    /Basler_21426018: [454, 344]
+  display:
+    display_server4/fullscreen: [1152, 972]
+- cameras:
+    /Basler_21425981: [173, 320]
+    /Basler_21425986: [396, 338]
+    /Basler_21426003: [414, 470]
+    /Basler_21426009: [256, 360]
+    /Basler_21426018: [336, 205]
+  display:
+    display_server4/fullscreen: [1344, 1]
+- cameras:
+    /Basler_21425981: [187, 307]
+    /Basler_21425986: [380, 351]
+    /Basler_21426003: [394, 454]
+    /Basler_21426009: [256, 343]
+    /Basler_21426018: [348, 215]
+  display:
+    display_server4/fullscreen: [1344, 108]
+- cameras:
+    /Basler_21425981: [202, 293]
+    /Basler_21425986: [361, 365]
+    /Basler_21426003: [372, 436]
+    /Basler_21426009: [255, 323]
+    /Basler_21426018: [363, 227]
+  display:
+    display_server4/fullscreen: [1344, 216]
+- cameras:
+    /Basler_21425981: [218, 280]
+    /Basler_21425986: [341, 381]
+    /Basler_21426003: [351, 418]
+    /Basler_21426009: [255, 303]
+    /Basler_21426018: [378, 239]
+  display:
+    display_server4/fullscreen: [1344, 324]
+- cameras:
+    /Basler_21425981: [233, 266]
+    /Basler_21425986: [320, 396]
+    /Basler_21426003: [330, 400]
+    /Basler_21426009: [254, 282]
+    /Basler_21426018: [393, 252]
+  display:
+    display_server4/fullscreen: [1344, 432]
+- cameras:
+    /Basler_21425981: [248, 253]
+    /Basler_21425986: [298, 412]
+    /Basler_21426003: [311, 383]
+    /Basler_21426009: [254, 262]
+    /Basler_21426018: [409, 265]
+  display:
+    display_server4/fullscreen: [1344, 540]
+- cameras:
+    /Basler_21425981: [262, 240]
+    /Basler_21425986: [275, 428]
+    /Basler_21426003: [292, 366]
+    /Basler_21426009: [254, 241]
+    /Basler_21426018: [425, 278]
+  display:
+    display_server4/fullscreen: [1344, 648]
+- cameras:
+    /Basler_21425981: [277, 227]
+    /Basler_21425986: [252, 444]
+    /Basler_21426003: [274, 350]
+    /Basler_21426009: [253, 220]
+    /Basler_21426018: [442, 292]
+  display:
+    display_server4/fullscreen: [1344, 756]
+- cameras:
+    /Basler_21425981: [290, 215]
+    /Basler_21425986: [228, 460]
+    /Basler_21426003: [256, 334]
+    /Basler_21426009: [253, 199]
+    /Basler_21426018: [458, 306]
+  display:
+    display_server4/fullscreen: [1344, 864]
+- cameras:
+    /Basler_21425981: [304, 204]
+    /Basler_21425986: [203, 476]
+    /Basler_21426003: [240, 319]
+    /Basler_21426009: [253, 179]
+    /Basler_21426018: [475, 320]
+  display:
+    display_server4/fullscreen: [1344, 972]
+- cameras:
+    /Basler_21425981: [155, 299]
+    /Basler_21425986: [430, 367]
+    /Basler_21426009: [221, 359]
+    /Basler_21426018: [359, 191]
+  display:
+    display_server4/fullscreen: [1536, 1]
+- cameras:
+    /Basler_21425981: [168, 288]
+    /Basler_21425986: [413, 381]
+    /Basler_21426003: [360, 488]
+    /Basler_21426009: [220, 342]
+    /Basler_21426018: [371, 201]
+  display:
+    display_server4/fullscreen: [1536, 108]
+- cameras:
+    /Basler_21425981: [183, 274]
+    /Basler_21425986: [395, 396]
+    /Basler_21426003: [338, 471]
+    /Basler_21426009: [220, 322]
+    /Basler_21426018: [385, 212]
+  display:
+    display_server4/fullscreen: [1536, 216]
+- cameras:
+    /Basler_21425981: [198, 262]
+    /Basler_21425986: [375, 413]
+    /Basler_21426003: [316, 452]
+    /Basler_21426009: [219, 302]
+    /Basler_21426018: [400, 223]
+  display:
+    display_server4/fullscreen: [1536, 324]
+- cameras:
+    /Basler_21425981: [212, 249]
+    /Basler_21425986: [354, 430]
+    /Basler_21426003: [295, 433]
+    /Basler_21426009: [219, 282]
+    /Basler_21426018: [415, 235]
+  display:
+    display_server4/fullscreen: [1536, 432]
+- cameras:
+    /Basler_21425981: [227, 237]
+    /Basler_21425986: [331, 447]
+    /Basler_21426003: [276, 414]
+    /Basler_21426009: [218, 262]
+    /Basler_21426018: [430, 247]
+  display:
+    display_server4/fullscreen: [1536, 540]
+- cameras:
+    /Basler_21425981: [241, 224]
+    /Basler_21425986: [308, 465]
+    /Basler_21426003: [257, 395]
+    /Basler_21426009: [218, 241]
+    /Basler_21426018: [446, 259]
+  display:
+    display_server4/fullscreen: [1536, 648]
+- cameras:
+    /Basler_21425981: [255, 213]
+    /Basler_21425986: [284, 483]
+    /Basler_21426003: [239, 378]
+    /Basler_21426009: [218, 221]
+    /Basler_21426018: [462, 272]
+  display:
+    display_server4/fullscreen: [1536, 756]
+- cameras:
+    /Basler_21425981: [268, 202]
+    /Basler_21425986: [259, 491]
+    /Basler_21426003: [222, 361]
+    /Basler_21426009: [218, 200]
+    /Basler_21426018: [477, 284]
+  display:
+    display_server4/fullscreen: [1536, 864]
+- cameras:
+    /Basler_21425981: [281, 191]
+    /Basler_21426003: [206, 344]
+    /Basler_21426009: [218, 180]
+    /Basler_21426018: [493, 298]
+  display:
+    display_server4/fullscreen: [1536, 972]
+- cameras:
+    /Basler_21425981: [140, 281]
+    /Basler_21425986: [465, 396]
+    /Basler_21426009: [187, 358]
+    /Basler_21426018: [380, 178]
+  display:
+    display_server4/fullscreen: [1728, 1]
+- cameras:
+    /Basler_21425981: [152, 270]
+    /Basler_21425986: [449, 411]
+    /Basler_21426009: [187, 341]
+    /Basler_21426018: [392, 187]
+  display:
+    display_server4/fullscreen: [1728, 108]
+- cameras:
+    /Basler_21425981: [166, 257]
+    /Basler_21425986: [431, 429]
+    /Basler_21426009: [186, 321]
+    /Basler_21426018: [406, 198]
+  display:
+    display_server4/fullscreen: [1728, 216]
+- cameras:
+    /Basler_21425981: [180, 245]
+    /Basler_21425986: [411, 447]
+    /Basler_21426003: [278, 486]
+    /Basler_21426009: [185, 302]
+    /Basler_21426018: [420, 208]
+  display:
+    display_server4/fullscreen: [1728, 324]
+- cameras:
+    /Basler_21425981: [194, 233]
+    /Basler_21425986: [390, 465]
+    /Basler_21426003: [258, 466]
+    /Basler_21426009: [184, 282]
+    /Basler_21426018: [434, 219]
+  display:
+    display_server4/fullscreen: [1728, 432]
+- cameras:
+    /Basler_21425981: [208, 222]
+    /Basler_21425986: [368, 484]
+    /Basler_21426003: [238, 446]
+    /Basler_21426009: [184, 262]
+    /Basler_21426018: [449, 230]
+  display:
+    display_server4/fullscreen: [1728, 540]
+- cameras:
+    /Basler_21425981: [222, 211]
+    /Basler_21426003: [220, 426]
+    /Basler_21426009: [183, 241]
+    /Basler_21426018: [464, 242]
+  display:
+    display_server4/fullscreen: [1728, 648]
+- cameras:
+    /Basler_21425981: [235, 200]
+    /Basler_21426003: [202, 407]
+    /Basler_21426009: [183, 221]
+    /Basler_21426018: [479, 253]
+  display:
+    display_server4/fullscreen: [1728, 756]
+- cameras:
+    /Basler_21425981: [248, 189]
+    /Basler_21426003: [186, 389]
+    /Basler_21426009: [183, 201]
+    /Basler_21426018: [494, 265]
+  display:
+    display_server4/fullscreen: [1728, 864]
+- cameras:
+    /Basler_21425981: [261, 179]
+    /Basler_21426003: [170, 371]
+    /Basler_21426009: [183, 181]
+    /Basler_21426018: [509, 278]
+  display:
+    display_server4/fullscreen: [1728, 972]
+- cameras:
+    /Basler_21425981: [16, 124]
+    /Basler_21425986: [653, 214]
+    /Basler_21426009: [43, 435]
+    /Basler_21426018: [445, 7]
+  display:
+    display_server3/fullscreen: [384, 1]
+- cameras:
+    /Basler_21425981: [27, 140]
+    /Basler_21425986: [635, 242]
+    /Basler_21426009: [57, 425]
+    /Basler_21426018: [440, 24]
+  display:
+    display_server3/fullscreen: [384, 108]
+- cameras:
+    /Basler_21425981: [38, 157]
+    /Basler_21426009: [71, 415]
+    /Basler_21426018: [435, 42]
+  display:
+    display_server3/fullscreen: [384, 216]
+- cameras:
+    /Basler_21425981: [50, 173]
+    /Basler_21426009: [84, 407]
+    /Basler_21426018: [430, 59]
+  display:
+    display_server3/fullscreen: [384, 324]
+- cameras:
+    /Basler_21425981: [61, 189]
+    /Basler_21426009: [95, 398]
+    /Basler_21426018: [425, 76]
+  display:
+    display_server3/fullscreen: [384, 432]
+- cameras:
+    /Basler_21425981: [72, 203]
+    /Basler_21426009: [106, 391]
+    /Basler_21426018: [420, 92]
+  display:
+    display_server3/fullscreen: [384, 540]
+- cameras:
+    /Basler_21425981: [82, 217]
+    /Basler_21426009: [116, 384]
+    /Basler_21426018: [416, 108]
+  display:
+    display_server3/fullscreen: [384, 648]
+- cameras:
+    /Basler_21425981: [92, 230]
+    /Basler_21426009: [125, 378]
+    /Basler_21426018: [411, 123]
+  display:
+    display_server3/fullscreen: [384, 756]
+- cameras:
+    /Basler_21425981: [102, 242]
+    /Basler_21426009: [134, 372]
+    /Basler_21426018: [407, 137]
+  display:
+    display_server3/fullscreen: [384, 864]
+- cameras:
+    /Basler_21425981: [112, 254]
+    /Basler_21426009: [141, 366]
+    /Basler_21426018: [403, 151]
+  display:
+    display_server3/fullscreen: [384, 972]
+- cameras:
+    /Basler_21425981: [44, 103]
+    /Basler_21426009: [36, 389]
+    /Basler_21426018: [474, 20]
+  display:
+    display_server3/fullscreen: [576, 1]
+- cameras:
+    /Basler_21425981: [54, 119]
+    /Basler_21425986: [604, 286]
+    /Basler_21426009: [51, 382]
+    /Basler_21426018: [468, 37]
+  display:
+    display_server3/fullscreen: [576, 108]
+- cameras:
+    /Basler_21425981: [65, 136]
+    /Basler_21426009: [65, 374]
+    /Basler_21426018: [462, 55]
+  display:
+    display_server3/fullscreen: [576, 216]
+- cameras:
+    /Basler_21425981: [75, 153]
+    /Basler_21426009: [79, 367]
+    /Basler_21426018: [457, 73]
+  display:
+    display_server3/fullscreen: [576, 324]
+- cameras:
+    /Basler_21425981: [86, 169]
+    /Basler_21426009: [91, 360]
+    /Basler_21426018: [451, 90]
+  display:
+    display_server3/fullscreen: [576, 432]
+- cameras:
+    /Basler_21425981: [96, 184]
+    /Basler_21426009: [102, 354]
+    /Basler_21426018: [445, 106]
+  display:
+    display_server3/fullscreen: [576, 540]
+- cameras:
+    /Basler_21425981: [105, 198]
+    /Basler_21426009: [113, 349]
+    /Basler_21426018: [440, 122]
+  display:
+    display_server3/fullscreen: [576, 648]
+- cameras:
+    /Basler_21425981: [115, 211]
+    /Basler_21426009: [122, 344]
+    /Basler_21426018: [435, 137]
+  display:
+    display_server3/fullscreen: [576, 756]
+- cameras:
+    /Basler_21425981: [124, 224]
+    /Basler_21426009: [131, 339]
+    /Basler_21426018: [430, 152]
+  display:
+    display_server3/fullscreen: [576, 864]
+- cameras:
+    /Basler_21425981: [132, 236]
+    /Basler_21426009: [139, 335]
+    /Basler_21426018: [425, 165]
+  display:
+    display_server3/fullscreen: [576, 972]
+- cameras:
+    /Basler_21425981: [77, 80]
+    /Basler_21425986: [586, 299]
+    /Basler_21426009: [30, 336]
+    /Basler_21426018: [507, 36]
+  display:
+    display_server3/fullscreen: [768, 1]
+- cameras:
+    /Basler_21425981: [86, 96]
+    /Basler_21425986: [567, 331]
+    /Basler_21426009: [45, 331]
+    /Basler_21426018: [500, 53]
+  display:
+    display_server3/fullscreen: [768, 108]
+- cameras:
+    /Basler_21425981: [96, 114]
+    /Basler_21426009: [61, 326]
+    /Basler_21426018: [494, 72]
+  display:
+    display_server3/fullscreen: [768, 216]
+- cameras:
+    /Basler_21425981: [105, 131]
+    /Basler_21426009: [75, 321]
+    /Basler_21426018: [487, 90]
+  display:
+    display_server3/fullscreen: [768, 324]
+- cameras:
+    /Basler_21425981: [114, 147]
+    /Basler_21426009: [88, 317]
+    /Basler_21426018: [480, 107]
+  display:
+    display_server3/fullscreen: [768, 432]
+- cameras:
+    /Basler_21425981: [123, 162]
+    /Basler_21426009: [99, 313]
+    /Basler_21426018: [474, 123]
+  display:
+    display_server3/fullscreen: [768, 540]
+- cameras:
+    /Basler_21425981: [132, 176]
+    /Basler_21426009: [110, 309]
+    /Basler_21426018: [467, 139]
+  display:
+    display_server3/fullscreen: [768, 648]
+- cameras:
+    /Basler_21425981: [141, 190]
+    /Basler_21426009: [120, 306]
+    /Basler_21426018: [461, 154]
+  display:
+    display_server3/fullscreen: [768, 756]
+- cameras:
+    /Basler_21425981: [149, 203]
+    /Basler_21426009: [129, 303]
+    /Basler_21426018: [455, 169]
+  display:
+    display_server3/fullscreen: [768, 864]
+- cameras:
+    /Basler_21425981: [156, 215]
+    /Basler_21426009: [137, 300]
+    /Basler_21426018: [449, 182]
+  display:
+    display_server3/fullscreen: [768, 972]
+- cameras:
+    /Basler_21425981: [110, 59]
+    /Basler_21425986: [532, 363]
+    /Basler_21426009: [26, 281]
+    /Basler_21426018: [541, 54]
+  display:
+    display_server3/fullscreen: [960, 1]
+- cameras:
+    /Basler_21425981: [118, 75]
+    /Basler_21425986: [514, 393]
+    /Basler_21426009: [42, 279]
+    /Basler_21426018: [534, 71]
+  display:
+    display_server3/fullscreen: [960, 108]
+- cameras:
+    /Basler_21425981: [127, 93]
+    /Basler_21426009: [58, 276]
+    /Basler_21426018: [526, 90]
+  display:
+    display_server3/fullscreen: [960, 216]
+- cameras:
+    /Basler_21425981: [135, 110]
+    /Basler_21426009: [72, 274]
+    /Basler_21426018: [518, 108]
+  display:
+    display_server3/fullscreen: [960, 324]
+- cameras:
+    /Basler_21425981: [143, 126]
+    /Basler_21426009: [85, 272]
+    /Basler_21426018: [510, 125]
+  display:
+    display_server3/fullscreen: [960, 432]
+- cameras:
+    /Basler_21425981: [151, 141]
+    /Basler_21426009: [97, 270]
+    /Basler_21426018: [503, 142]
+  display:
+    display_server3/fullscreen: [960, 540]
+- cameras:
+    /Basler_21425981: [159, 156]
+    /Basler_21426009: [108, 268]
+    /Basler_21426018: [495, 158]
+  display:
+    display_server3/fullscreen: [960, 648]
+- cameras:
+    /Basler_21425981: [166, 170]
+    /Basler_21426009: [118, 266]
+    /Basler_21426018: [488, 173]
+  display:
+    display_server3/fullscreen: [960, 756]
+- cameras:
+    /Basler_21425981: [174, 183]
+    /Basler_21426009: [127, 265]
+    /Basler_21426018: [481, 187]
+  display:
+    display_server3/fullscreen: [960, 864]
+- cameras:
+    /Basler_21425981: [180, 196]
+    /Basler_21426009: [136, 263]
+    /Basler_21426018: [475, 200]
+  display:
+    display_server3/fullscreen: [960, 972]
+- cameras:
+    /Basler_21425981: [143, 40]
+    /Basler_21425986: [455, 445]
+    /Basler_21426009: [25, 225]
+    /Basler_21426018: [577, 74]
+  display:
+    display_server3/fullscreen: [1152, 1]
+- cameras:
+    /Basler_21425981: [149, 56]
+    /Basler_21425986: [440, 469]
+    /Basler_21426009: [41, 225]
+    /Basler_21426018: [568, 92]
+  display:
+    display_server3/fullscreen: [1152, 108]
+- cameras:
+    /Basler_21425981: [157, 74]
+    /Basler_21426009: [57, 225]
+    /Basler_21426018: [559, 110]
+  display:
+    display_server3/fullscreen: [1152, 216]
+- cameras:
+    /Basler_21425981: [164, 91]
+    /Basler_21426009: [71, 226]
+    /Basler_21426018: [550, 128]
+  display:
+    display_server3/fullscreen: [1152, 324]
+- cameras:
+    /Basler_21425981: [171, 107]
+    /Basler_21426009: [84, 226]
+    /Basler_21426018: [541, 146]
+  display:
+    display_server3/fullscreen: [1152, 432]
+- cameras:
+    /Basler_21425981: [178, 122]
+    /Basler_21426009: [96, 226]
+    /Basler_21426018: [533, 162]
+  display:
+    display_server3/fullscreen: [1152, 540]
+- cameras:
+    /Basler_21425981: [185, 137]
+    /Basler_21426009: [107, 227]
+    /Basler_21426018: [524, 177]
+  display:
+    display_server3/fullscreen: [1152, 648]
+- cameras:
+    /Basler_21425981: [191, 151]
+    /Basler_21426009: [117, 227]
+    /Basler_21426018: [516, 192]
+  display:
+    display_server3/fullscreen: [1152, 756]
+- cameras:
+    /Basler_21425981: [198, 165]
+    /Basler_21426009: [127, 227]
+    /Basler_21426018: [508, 206]
+  display:
+    display_server3/fullscreen: [1152, 864]
+- cameras:
+    /Basler_21425981: [204, 178]
+    /Basler_21426009: [135, 227]
+    /Basler_21426018: [501, 219]
+  display:
+    display_server3/fullscreen: [1152, 972]
+- cameras:
+    /Basler_21425981: [174, 23]
+    /Basler_21426009: [26, 169]
+    /Basler_21426018: [612, 97]
+  display:
+    display_server3/fullscreen: [1344, 1]
+- cameras:
+    /Basler_21425981: [180, 39]
+    /Basler_21426009: [42, 172]
+    /Basler_21426018: [603, 114]
+  display:
+    display_server3/fullscreen: [1344, 108]
+- cameras:
+    /Basler_21425981: [186, 57]
+    /Basler_21426009: [58, 175]
+    /Basler_21426018: [592, 132]
+  display:
+    display_server3/fullscreen: [1344, 216]
+- cameras:
+    /Basler_21425981: [192, 73]
+    /Basler_21426009: [72, 178]
+    /Basler_21426018: [582, 150]
+  display:
+    display_server3/fullscreen: [1344, 324]
+- cameras:
+    /Basler_21425981: [198, 89]
+    /Basler_21426009: [85, 181]
+    /Basler_21426018: [572, 167]
+  display:
+    display_server3/fullscreen: [1344, 432]
+- cameras:
+    /Basler_21425981: [204, 105]
+    /Basler_21426009: [97, 183]
+    /Basler_21426018: [563, 183]
+  display:
+    display_server3/fullscreen: [1344, 540]
+- cameras:
+    /Basler_21425981: [210, 120]
+    /Basler_21426009: [108, 185]
+    /Basler_21426018: [553, 198]
+  display:
+    display_server3/fullscreen: [1344, 648]
+- cameras:
+    /Basler_21425981: [216, 134]
+    /Basler_21426009: [118, 188]
+    /Basler_21426018: [544, 213]
+  display:
+    display_server3/fullscreen: [1344, 756]
+- cameras:
+    /Basler_21425981: [221, 147]
+    /Basler_21426009: [127, 189]
+    /Basler_21426018: [535, 226]
+  display:
+    display_server3/fullscreen: [1344, 864]
+- cameras:
+    /Basler_21425981: [227, 160]
+    /Basler_21426009: [135, 191]
+    /Basler_21426018: [527, 239]
+  display:
+    display_server3/fullscreen: [1344, 972]
+- cameras:
+    /Basler_21425981: [202, 9]
+    /Basler_21426009: [30, 117]
+    /Basler_21426018: [645, 119]
+  display:
+    display_server3/fullscreen: [1536, 1]
+- cameras:
+    /Basler_21425981: [207, 25]
+    /Basler_21426009: [45, 122]
+    /Basler_21426018: [634, 136]
+  display:
+    display_server3/fullscreen: [1536, 108]
+- cameras:
+    /Basler_21425981: [213, 42]
+    /Basler_21426009: [60, 128]
+    /Basler_21426018: [623, 154]
+  display:
+    display_server3/fullscreen: [1536, 216]
+- cameras:
+    /Basler_21425981: [218, 58]
+    /Basler_21426009: [74, 134]
+    /Basler_21426018: [612, 171]
+  display:
+    display_server3/fullscreen: [1536, 324]
+- cameras:
+    /Basler_21425981: [223, 74]
+    /Basler_21426009: [87, 138]
+    /Basler_21426018: [601, 188]
+  display:
+    display_server3/fullscreen: [1536, 432]
+- cameras:
+    /Basler_21425981: [229, 90]
+    /Basler_21426009: [98, 143]
+    /Basler_21426018: [590, 203]
+  display:
+    display_server3/fullscreen: [1536, 540]
+- cameras:
+    /Basler_21425981: [234, 104]
+    /Basler_21426009: [109, 147]
+    /Basler_21426018: [580, 218]
+  display:
+    display_server3/fullscreen: [1536, 648]
+- cameras:
+    /Basler_21425981: [239, 118]
+    /Basler_21426009: [119, 150]
+    /Basler_21426018: [570, 232]
+  display:
+    display_server3/fullscreen: [1536, 756]
+- cameras:
+    /Basler_21425981: [243, 132]
+    /Basler_21426009: [128, 154]
+    /Basler_21426018: [560, 245]
+  display:
+    display_server3/fullscreen: [1536, 864]
+- cameras:
+    /Basler_21425981: [248, 145]
+    /Basler_21426009: [136, 157]
+    /Basler_21426018: [551, 258]
+  display:
+    display_server3/fullscreen: [1536, 972]
+- cameras:
+    /Basler_21425981: [211, 9]
+    /Basler_21426003: [3, 169]
+    /Basler_21426009: [45, 104]
+  display:
+    display_server2/fullscreen: [1, 1]
+- cameras:
+    /Basler_21425981: [216, 25]
+    /Basler_21426003: [14, 198]
+  display:
+    display_server2/fullscreen: [1, 108]
+- cameras:
+    /Basler_21425981: [222, 43]
+    /Basler_21426003: [29, 227]
+  display:
+    display_server2/fullscreen: [1, 216]
+- cameras:
+    /Basler_21425981: [227, 60]
+    /Basler_21426003: [43, 254]
+  display:
+    display_server2/fullscreen: [1, 324]
+- cameras:
+    /Basler_21425981: [232, 76]
+    /Basler_21426003: [57, 277]
+  display:
+    display_server2/fullscreen: [1, 432]
+- cameras:
+    /Basler_21425981: [237, 92]
+    /Basler_21426003: [70, 298]
+  display:
+    display_server2/fullscreen: [1, 540]
+- cameras:
+    /Basler_21425981: [242, 106]
+    /Basler_21426003: [81, 317]
+  display:
+    display_server2/fullscreen: [1, 648]
+- cameras:
+    /Basler_21425981: [247, 121]
+    /Basler_21426003: [92, 334]
+  display:
+    display_server2/fullscreen: [1, 756]
+- cameras:
+    /Basler_21425981: [251, 134]
+    /Basler_21426003: [102, 349]
+  display:
+    display_server2/fullscreen: [1, 864]
+- cameras:
+    /Basler_21425981: [256, 148]
+    /Basler_21426003: [111, 363]
+  display:
+    display_server2/fullscreen: [1, 972]
+- cameras:
+    /Basler_21425981: [230, 11]
+    /Basler_21425986: [90, 488]
+    /Basler_21426003: [59, 137]
+    /Basler_21426009: [88, 98]
+  display:
+    display_server2/fullscreen: [192, 1]
+- cameras:
+    /Basler_21425981: [235, 28]
+    /Basler_21426003: [70, 166]
+    /Basler_21426009: [102, 114]
+  display:
+    display_server2/fullscreen: [192, 108]
+- cameras:
+    /Basler_21425981: [240, 46]
+    /Basler_21426003: [82, 196]
+    /Basler_21426009: [114, 121]
+  display:
+    display_server2/fullscreen: [192, 216]
+- cameras:
+    /Basler_21425981: [246, 64]
+    /Basler_21426003: [93, 223]
+  display:
+    display_server2/fullscreen: [192, 324]
+- cameras:
+    /Basler_21425981: [251, 81]
+    /Basler_21426003: [104, 248]
+  display:
+    display_server2/fullscreen: [192, 432]
+- cameras:
+    /Basler_21425981: [256, 98]
+    /Basler_21426003: [113, 270]
+  display:
+    display_server2/fullscreen: [192, 540]
+- cameras:
+    /Basler_21425981: [260, 113]
+    /Basler_21426003: [123, 289]
+  display:
+    display_server2/fullscreen: [192, 648]
+- cameras:
+    /Basler_21425981: [265, 128]
+    /Basler_21426003: [131, 307]
+  display:
+    display_server2/fullscreen: [192, 756]
+- cameras:
+    /Basler_21425981: [269, 143]
+    /Basler_21426003: [139, 323]
+  display:
+    display_server2/fullscreen: [192, 864]
+- cameras:
+    /Basler_21425981: [273, 156]
+    /Basler_21426003: [147, 338]
+  display:
+    display_server2/fullscreen: [192, 972]
+- cameras:
+    /Basler_21425981: [254, 13]
+    /Basler_21425986: [45, 388]
+    /Basler_21426003: [121, 107]
+    /Basler_21426009: [140, 93]
+  display:
+    display_server2/fullscreen: [384, 1]
+- cameras:
+    /Basler_21425981: [258, 31]
+    /Basler_21425986: [89, 410]
+    /Basler_21426003: [128, 136]
+    /Basler_21426009: [152, 110]
+  display:
+    display_server2/fullscreen: [384, 108]
+- cameras:
+    /Basler_21425981: [264, 51]
+    /Basler_21426003: [136, 166]
+    /Basler_21426009: [163, 118]
+  display:
+    display_server2/fullscreen: [384, 216]
+- cameras:
+    /Basler_21425981: [269, 70]
+    /Basler_21426003: [144, 194]
+  display:
+    display_server2/fullscreen: [384, 324]
+- cameras:
+    /Basler_21425981: [273, 88]
+    /Basler_21426003: [152, 218]
+  display:
+    display_server2/fullscreen: [384, 432]
+- cameras:
+    /Basler_21425981: [278, 106]
+    /Basler_21426003: [159, 241]
+  display:
+    display_server2/fullscreen: [384, 540]
+- cameras:
+    /Basler_21425981: [282, 122]
+    /Basler_21426003: [166, 262]
+  display:
+    display_server2/fullscreen: [384, 648]
+- cameras:
+    /Basler_21425981: [286, 138]
+    /Basler_21426003: [172, 280]
+  display:
+    display_server2/fullscreen: [384, 756]
+- cameras:
+    /Basler_21425981: [290, 153]
+    /Basler_21426003: [177, 297]
+  display:
+    display_server2/fullscreen: [384, 864]
+- cameras:
+    /Basler_21425981: [294, 167]
+    /Basler_21426003: [183, 312]
+  display:
+    display_server2/fullscreen: [384, 972]
+- cameras:
+    /Basler_21425981: [281, 16]
+    /Basler_21426003: [178, 83]
+    /Basler_21426009: [197, 88]
+  display:
+    display_server2/fullscreen: [576, 1]
+- cameras:
+    /Basler_21425981: [286, 36]
+    /Basler_21426003: [182, 111]
+    /Basler_21426009: [206, 107]
+  display:
+    display_server2/fullscreen: [576, 108]
+- cameras:
+    /Basler_21425981: [290, 57]
+    /Basler_21426003: [188, 140]
+    /Basler_21426009: [214, 115]
+  display:
+    display_server2/fullscreen: [576, 216]
+- cameras:
+    /Basler_21425981: [295, 77]
+    /Basler_21426003: [193, 167]
+    /Basler_21426009: [221, 122]
+  display:
+    display_server2/fullscreen: [576, 324]
+- cameras:
+    /Basler_21425981: [299, 97]
+    /Basler_21426003: [198, 192]
+    /Basler_21426009: [227, 129]
+  display:
+    display_server2/fullscreen: [576, 432]
+- cameras:
+    /Basler_21425981: [303, 115]
+    /Basler_21426003: [202, 215]
+    /Basler_21426009: [233, 134]
+  display:
+    display_server2/fullscreen: [576, 540]
+- cameras:
+    /Basler_21425981: [307, 132]
+    /Basler_21426003: [206, 236]
+    /Basler_21426009: [239, 139]
+  display:
+    display_server2/fullscreen: [576, 648]
+- cameras:
+    /Basler_21425981: [310, 149]
+    /Basler_21426003: [211, 255]
+  display:
+    display_server2/fullscreen: [576, 756]
+- cameras:
+    /Basler_21425981: [314, 164]
+    /Basler_21426003: [214, 272]
+  display:
+    display_server2/fullscreen: [576, 864]
+- cameras:
+    /Basler_21425981: [317, 178]
+    /Basler_21426003: [218, 288]
+  display:
+    display_server2/fullscreen: [576, 972]
+- cameras:
+    /Basler_21425981: [313, 20]
+    /Basler_21425986: [0, 250]
+    /Basler_21426003: [229, 63]
+    /Basler_21426009: [259, 85]
+  display:
+    display_server2/fullscreen: [768, 1]
+- cameras:
+    /Basler_21425981: [317, 41]
+    /Basler_21426003: [232, 90]
+    /Basler_21426009: [264, 104]
+  display:
+    display_server2/fullscreen: [768, 108]
+- cameras:
+    /Basler_21425981: [321, 64]
+    /Basler_21426003: [234, 118]
+    /Basler_21426009: [268, 113]
+  display:
+    display_server2/fullscreen: [768, 216]
+- cameras:
+    /Basler_21425981: [325, 86]
+    /Basler_21426003: [237, 144]
+    /Basler_21426009: [272, 120]
+  display:
+    display_server2/fullscreen: [768, 324]
+- cameras:
+    /Basler_21425981: [328, 107]
+    /Basler_21426003: [240, 169]
+    /Basler_21426009: [275, 127]
+  display:
+    display_server2/fullscreen: [768, 432]
+- cameras:
+    /Basler_21425981: [332, 126]
+    /Basler_21426003: [242, 191]
+    /Basler_21426009: [279, 133]
+  display:
+    display_server2/fullscreen: [768, 540]
+- cameras:
+    /Basler_21425981: [335, 144]
+    /Basler_21426003: [245, 212]
+    /Basler_21426009: [282, 138]
+  display:
+    display_server2/fullscreen: [768, 648]
+- cameras:
+    /Basler_21425981: [338, 161]
+    /Basler_21426003: [247, 231]
+  display:
+    display_server2/fullscreen: [768, 756]
+- cameras:
+    /Basler_21425981: [340, 177]
+    /Basler_21426003: [249, 249]
+  display:
+    display_server2/fullscreen: [768, 864]
+- cameras:
+    /Basler_21425981: [343, 191]
+    /Basler_21426003: [251, 265]
+  display:
+    display_server2/fullscreen: [768, 972]
+- cameras:
+    /Basler_21425981: [351, 26]
+    /Basler_21426003: [274, 47]
+    /Basler_21426009: [323, 83]
+  display:
+    display_server2/fullscreen: [960, 1]
+- cameras:
+    /Basler_21425981: [354, 49]
+    /Basler_21426003: [275, 72]
+    /Basler_21426009: [323, 102]
+  display:
+    display_server2/fullscreen: [960, 108]
+- cameras:
+    /Basler_21425981: [357, 74]
+    /Basler_21426003: [276, 99]
+    /Basler_21426009: [323, 111]
+  display:
+    display_server2/fullscreen: [960, 216]
+- cameras:
+    /Basler_21425981: [359, 97]
+    /Basler_21426003: [277, 124]
+    /Basler_21426009: [324, 119]
+  display:
+    display_server2/fullscreen: [960, 324]
+- cameras:
+    /Basler_21425981: [362, 118]
+    /Basler_21426003: [278, 148]
+    /Basler_21426009: [325, 126]
+  display:
+    display_server2/fullscreen: [960, 432]
+- cameras:
+    /Basler_21425981: [364, 139]
+    /Basler_21426003: [279, 170]
+    /Basler_21426009: [326, 132]
+  display:
+    display_server2/fullscreen: [960, 540]
+- cameras:
+    /Basler_21425981: [366, 157]
+    /Basler_21426003: [280, 191]
+    /Basler_21426009: [325, 137]
+  display:
+    display_server2/fullscreen: [960, 648]
+- cameras:
+    /Basler_21425981: [367, 175]
+    /Basler_21426003: [280, 210]
+    /Basler_21426009: [326, 142]
+  display:
+    display_server2/fullscreen: [960, 756]
+- cameras:
+    /Basler_21425981: [369, 191]
+    /Basler_21426003: [281, 227]
+  display:
+    display_server2/fullscreen: [960, 864]
+- cameras:
+    /Basler_21425981: [371, 206]
+    /Basler_21426003: [281, 244]
+  display:
+    display_server2/fullscreen: [960, 972]
+- cameras:
+    /Basler_21425981: [394, 34]
+    /Basler_21426003: [314, 34]
+    /Basler_21426009: [387, 83]
+    /Basler_21426018: [592, 270]
+  display:
+    display_server2/fullscreen: [1152, 1]
+- cameras:
+    /Basler_21425981: [396, 59]
+    /Basler_21426003: [313, 58]
+    /Basler_21426009: [383, 102]
+  display:
+    display_server2/fullscreen: [1152, 108]
+- cameras:
+    /Basler_21425981: [397, 85]
+    /Basler_21426003: [313, 84]
+    /Basler_21426009: [380, 111]
+  display:
+    display_server2/fullscreen: [1152, 216]
+- cameras:
+    /Basler_21425981: [398, 110]
+    /Basler_21426003: [313, 108]
+    /Basler_21426009: [377, 119]
+  display:
+    display_server2/fullscreen: [1152, 324]
+- cameras:
+    /Basler_21425981: [399, 132]
+    /Basler_21426003: [312, 130]
+    /Basler_21426009: [374, 125]
+  display:
+    display_server2/fullscreen: [1152, 432]
+- cameras:
+    /Basler_21425981: [399, 153]
+    /Basler_21426003: [312, 152]
+    /Basler_21426009: [374, 131]
+  display:
+    display_server2/fullscreen: [1152, 540]
+- cameras:
+    /Basler_21425981: [400, 173]
+    /Basler_21426003: [311, 172]
+  display:
+    display_server2/fullscreen: [1152, 648]
+- cameras:
+    /Basler_21425981: [400, 190]
+    /Basler_21426003: [311, 190]
+  display:
+    display_server2/fullscreen: [1152, 756]
+- cameras:
+    /Basler_21425981: [401, 206]
+    /Basler_21426003: [310, 208]
+  display:
+    display_server2/fullscreen: [1152, 864]
+- cameras:
+    /Basler_21425981: [401, 221]
+    /Basler_21426003: [310, 224]
+  display:
+    display_server2/fullscreen: [1152, 972]
+- cameras:
+    /Basler_21425981: [444, 46]
+    /Basler_21426003: [348, 24]
+    /Basler_21426009: [449, 84]
+    /Basler_21426018: [564, 324]
+  display:
+    display_server2/fullscreen: [1344, 1]
+- cameras:
+    /Basler_21425981: [444, 72]
+    /Basler_21426003: [346, 47]
+    /Basler_21426009: [442, 103]
+  display:
+    display_server2/fullscreen: [1344, 108]
+- cameras:
+    /Basler_21425981: [443, 100]
+    /Basler_21426003: [345, 71]
+    /Basler_21426009: [435, 111]
+  display:
+    display_server2/fullscreen: [1344, 216]
+- cameras:
+    /Basler_21425981: [441, 125]
+    /Basler_21426003: [344, 93]
+    /Basler_21426009: [428, 119]
+  display:
+    display_server2/fullscreen: [1344, 324]
+- cameras:
+    /Basler_21425981: [440, 149]
+    /Basler_21426003: [342, 115]
+    /Basler_21426009: [423, 126]
+  display:
+    display_server2/fullscreen: [1344, 432]
+- cameras:
+    /Basler_21425981: [439, 170]
+    /Basler_21426003: [341, 136]
+    /Basler_21426009: [417, 132]
+  display:
+    display_server2/fullscreen: [1344, 540]
+- cameras:
+    /Basler_21425981: [437, 190]
+    /Basler_21426003: [340, 155]
+    /Basler_21426009: [415, 137]
+  display:
+    display_server2/fullscreen: [1344, 648]
+- cameras:
+    /Basler_21425981: [436, 208]
+    /Basler_21426003: [338, 173]
+  display:
+    display_server2/fullscreen: [1344, 756]
+- cameras:
+    /Basler_21425981: [435, 224]
+    /Basler_21426003: [337, 190]
+  display:
+    display_server2/fullscreen: [1344, 864]
+- cameras:
+    /Basler_21425981: [433, 239]
+    /Basler_21426003: [336, 206]
+  display:
+    display_server2/fullscreen: [1344, 972]
+- cameras:
+    /Basler_21425981: [500, 62]
+    /Basler_21426003: [377, 17]
+    /Basler_21426009: [507, 87]
+    /Basler_21426018: [518, 400]
+  display:
+    display_server2/fullscreen: [1536, 1]
+- cameras:
+    /Basler_21425981: [497, 89]
+    /Basler_21426003: [375, 37]
+    /Basler_21426009: [497, 105]
+    /Basler_21426018: [475, 408]
+  display:
+    display_server2/fullscreen: [1536, 108]
+- cameras:
+    /Basler_21425981: [493, 118]
+    /Basler_21426003: [373, 60]
+    /Basler_21426009: [487, 113]
+  display:
+    display_server2/fullscreen: [1536, 216]
+- cameras:
+    /Basler_21425981: [489, 144]
+    /Basler_21426003: [371, 81]
+    /Basler_21426009: [478, 120]
+  display:
+    display_server2/fullscreen: [1536, 324]
+- cameras:
+    /Basler_21425981: [485, 168]
+    /Basler_21426003: [369, 102]
+    /Basler_21426009: [470, 127]
+  display:
+    display_server2/fullscreen: [1536, 432]
+- cameras:
+    /Basler_21425981: [481, 189]
+    /Basler_21426003: [367, 121]
+    /Basler_21426009: [463, 132]
+  display:
+    display_server2/fullscreen: [1536, 540]
+- cameras:
+    /Basler_21425981: [478, 209]
+    /Basler_21426003: [365, 140]
+  display:
+    display_server2/fullscreen: [1536, 648]
+- cameras:
+    /Basler_21425981: [474, 227]
+    /Basler_21426003: [363, 158]
+    /Basler_21426009: [450, 142]
+  display:
+    display_server2/fullscreen: [1536, 756]
+- cameras:
+    /Basler_21425981: [471, 243]
+    /Basler_21426003: [361, 174]
+    /Basler_21426009: [443, 146]
+  display:
+    display_server2/fullscreen: [1536, 864]
+- cameras:
+    /Basler_21425981: [468, 257]
+    /Basler_21426003: [359, 190]
+  display:
+    display_server2/fullscreen: [1536, 972]
+- cameras:
+    /Basler_21425981: [560, 82]
+    /Basler_21426003: [402, 10]
+    /Basler_21426009: [561, 91]
+    /Basler_21426018: [453, 489]
+  display:
+    display_server2/fullscreen: [1728, 1]
+- cameras:
+    /Basler_21425981: [554, 111]
+    /Basler_21426003: [400, 30]
+    /Basler_21426009: [548, 108]
+    /Basler_21426018: [408, 489]
+  display:
+    display_server2/fullscreen: [1728, 108]
+- cameras:
+    /Basler_21425981: [546, 139]
+    /Basler_21426003: [397, 51]
+    /Basler_21426009: [535, 115]
+  display:
+    display_server2/fullscreen: [1728, 216]
+- cameras:
+    /Basler_21425981: [539, 166]
+    /Basler_21426003: [395, 71]
+    /Basler_21426009: [524, 122]
+  display:
+    display_server2/fullscreen: [1728, 324]
+- cameras:
+    /Basler_21425981: [533, 189]
+    /Basler_21426003: [393, 91]
+    /Basler_21426009: [515, 128]
+  display:
+    display_server2/fullscreen: [1728, 432]
+- cameras:
+    /Basler_21425981: [526, 211]
+    /Basler_21426003: [390, 109]
+  display:
+    display_server2/fullscreen: [1728, 540]
+- cameras:
+    /Basler_21425981: [520, 230]
+    /Basler_21426003: [388, 127]
+    /Basler_21426009: [497, 138]
+  display:
+    display_server2/fullscreen: [1728, 648]
+- cameras:
+    /Basler_21425981: [514, 247]
+    /Basler_21426003: [385, 144]
+  display:
+    display_server2/fullscreen: [1728, 756]
+- cameras:
+    /Basler_21425981: [508, 263]
+    /Basler_21426003: [383, 160]
+  display:
+    display_server2/fullscreen: [1728, 864]
+- cameras:
+    /Basler_21425981: [503, 277]
+    /Basler_21426003: [380, 176]
+  display:
+    display_server2/fullscreen: [1728, 972]
+- cameras:
+    /Basler_21425981: [645, 116]
+    /Basler_21426003: [432, 4]
+    /Basler_21426009: [621, 97]
+  display:
+    display_server1/fullscreen: [384, 1]
+- cameras:
+    /Basler_21425981: [636, 144]
+    /Basler_21426003: [429, 22]
+    /Basler_21426009: [607, 114]
+  display:
+    display_server1/fullscreen: [384, 108]
+- cameras:
+    /Basler_21425981: [627, 173]
+    /Basler_21426003: [426, 42]
+    /Basler_21426009: [592, 120]
+  display:
+    display_server1/fullscreen: [384, 216]
+- cameras:
+    /Basler_21425981: [616, 199]
+    /Basler_21425986: [0, 147]
+    /Basler_21426003: [423, 60]
+    /Basler_21426009: [578, 126]
+  display:
+    display_server1/fullscreen: [384, 324]
+- cameras:
+    /Basler_21425986: [7, 167]
+    /Basler_21426003: [421, 79]
+    /Basler_21426009: [566, 132]
+  display:
+    display_server1/fullscreen: [384, 432]
+- cameras:
+    /Basler_21425986: [15, 186]
+    /Basler_21426003: [418, 96]
+    /Basler_21426009: [555, 136]
+  display:
+    display_server1/fullscreen: [384, 540]
+- cameras:
+    /Basler_21425986: [23, 205]
+    /Basler_21426003: [415, 113]
+    /Basler_21426009: [544, 141]
+  display:
+    display_server1/fullscreen: [384, 648]
+- cameras:
+    /Basler_21425986: [31, 222]
+    /Basler_21426003: [412, 129]
+    /Basler_21426009: [535, 145]
+  display:
+    display_server1/fullscreen: [384, 756]
+- cameras:
+    /Basler_21425986: [38, 239]
+    /Basler_21426003: [409, 145]
+    /Basler_21426009: [526, 149]
+  display:
+    display_server1/fullscreen: [384, 864]
+- cameras:
+    /Basler_21425986: [46, 255]
+    /Basler_21426003: [406, 160]
+  display:
+    display_server1/fullscreen: [384, 972]
+- cameras:
+    /Basler_21425986: [14, 67]
+    /Basler_21426003: [463, 15]
+    /Basler_21426009: [626, 158]
+  display:
+    display_server1/fullscreen: [576, 1]
+- cameras:
+    /Basler_21425986: [20, 88]
+    /Basler_21426003: [460, 33]
+    /Basler_21426009: [611, 162]
+  display:
+    display_server1/fullscreen: [576, 108]
+- cameras:
+    /Basler_21425986: [27, 110]
+    /Basler_21426003: [456, 53]
+    /Basler_21426009: [595, 166]
+  display:
+    display_server1/fullscreen: [576, 216]
+- cameras:
+    /Basler_21425986: [33, 132]
+    /Basler_21426003: [452, 72]
+    /Basler_21426009: [581, 169]
+  display:
+    display_server1/fullscreen: [576, 324]
+- cameras:
+    /Basler_21425986: [40, 152]
+    /Basler_21426003: [449, 91]
+    /Basler_21426009: [568, 173]
+  display:
+    display_server1/fullscreen: [576, 432]
+- cameras:
+    /Basler_21425986: [47, 172]
+    /Basler_21426003: [445, 108]
+    /Basler_21426009: [557, 175]
+  display:
+    display_server1/fullscreen: [576, 540]
+- cameras:
+    /Basler_21425986: [54, 190]
+    /Basler_21426003: [441, 126]
+    /Basler_21426009: [546, 178]
+  display:
+    display_server1/fullscreen: [576, 648]
+- cameras:
+    /Basler_21425986: [61, 208]
+    /Basler_21426003: [437, 142]
+    /Basler_21426009: [536, 180]
+  display:
+    display_server1/fullscreen: [576, 756]
+- cameras:
+    /Basler_21425986: [67, 225]
+    /Basler_21426003: [434, 158]
+    /Basler_21426009: [528, 183]
+  display:
+    display_server1/fullscreen: [576, 864]
+- cameras:
+    /Basler_21425986: [74, 241]
+    /Basler_21426003: [430, 173]
+    /Basler_21426009: [519, 185]
+  display:
+    display_server1/fullscreen: [576, 972]
+- cameras:
+    /Basler_21425986: [56, 52]
+    /Basler_21426003: [499, 28]
+    /Basler_21426009: [629, 215]
+  display:
+    display_server1/fullscreen: [768, 1]
+- cameras:
+    /Basler_21425986: [61, 72]
+    /Basler_21426003: [495, 46]
+    /Basler_21426009: [613, 216]
+  display:
+    display_server1/fullscreen: [768, 108]
+- cameras:
+    /Basler_21425986: [66, 95]
+    /Basler_21426003: [490, 67]
+    /Basler_21426009: [597, 217]
+  display:
+    display_server1/fullscreen: [768, 216]
+- cameras:
+    /Basler_21425986: [72, 116]
+    /Basler_21426003: [486, 86]
+    /Basler_21426009: [583, 218]
+  display:
+    display_server1/fullscreen: [768, 324]
+- cameras:
+    /Basler_21425986: [78, 137]
+    /Basler_21426003: [481, 105]
+    /Basler_21426009: [570, 219]
+  display:
+    display_server1/fullscreen: [768, 432]
+- cameras:
+    /Basler_21425986: [83, 156]
+    /Basler_21426003: [476, 123]
+    /Basler_21426009: [558, 219]
+  display:
+    display_server1/fullscreen: [768, 540]
+- cameras:
+    /Basler_21425986: [89, 175]
+    /Basler_21426003: [471, 141]
+    /Basler_21426009: [547, 220]
+  display:
+    display_server1/fullscreen: [768, 648]
+- cameras:
+    /Basler_21425986: [95, 193]
+    /Basler_21426003: [466, 157]
+    /Basler_21426009: [537, 220]
+  display:
+    display_server1/fullscreen: [768, 756]
+- cameras:
+    /Basler_21425986: [101, 210]
+    /Basler_21426003: [462, 173]
+    /Basler_21426009: [528, 221]
+  display:
+    display_server1/fullscreen: [768, 864]
+- cameras:
+    /Basler_21425986: [106, 226]
+    /Basler_21426003: [457, 188]
+    /Basler_21426009: [520, 221]
+  display:
+    display_server1/fullscreen: [768, 972]
+- cameras:
+    /Basler_21425986: [97, 38]
+    /Basler_21426003: [537, 43]
+    /Basler_21426009: [628, 273]
+  display:
+    display_server1/fullscreen: [960, 1]
+- cameras:
+    /Basler_21425986: [101, 59]
+    /Basler_21426003: [532, 62]
+    /Basler_21426009: [613, 271]
+  display:
+    display_server1/fullscreen: [960, 108]
+- cameras:
+    /Basler_21425986: [105, 81]
+    /Basler_21426003: [526, 82]
+    /Basler_21426009: [597, 268]
+  display:
+    display_server1/fullscreen: [960, 216]
+- cameras:
+    /Basler_21425986: [110, 102]
+    /Basler_21426003: [520, 102]
+    /Basler_21426009: [583, 267]
+  display:
+    display_server1/fullscreen: [960, 324]
+- cameras:
+    /Basler_21425986: [115, 122]
+    /Basler_21426003: [514, 121]
+    /Basler_21426009: [570, 265]
+  display:
+    display_server1/fullscreen: [960, 432]
+- cameras:
+    /Basler_21425986: [119, 142]
+    /Basler_21426003: [508, 140]
+    /Basler_21426009: [558, 263]
+  display:
+    display_server1/fullscreen: [960, 540]
+- cameras:
+    /Basler_21425986: [124, 160]
+    /Basler_21426003: [502, 157]
+    /Basler_21426009: [547, 262]
+  display:
+    display_server1/fullscreen: [960, 648]
+- cameras:
+    /Basler_21425986: [129, 178]
+    /Basler_21426003: [497, 174]
+    /Basler_21426009: [537, 260]
+  display:
+    display_server1/fullscreen: [960, 756]
+- cameras:
+    /Basler_21425986: [133, 195]
+    /Basler_21426003: [491, 189]
+    /Basler_21426009: [528, 259]
+  display:
+    display_server1/fullscreen: [960, 864]
+- cameras:
+    /Basler_21425986: [138, 211]
+    /Basler_21426003: [486, 204]
+    /Basler_21426009: [520, 258]
+  display:
+    display_server1/fullscreen: [960, 972]
+- cameras:
+    /Basler_21425986: [137, 27]
+    /Basler_21426003: [576, 60]
+    /Basler_21426009: [625, 329]
+  display:
+    display_server1/fullscreen: [1152, 1]
+- cameras:
+    /Basler_21425986: [140, 47]
+    /Basler_21426003: [570, 79]
+    /Basler_21426009: [610, 324]
+  display:
+    display_server1/fullscreen: [1152, 108]
+- cameras:
+    /Basler_21425986: [143, 68]
+    /Basler_21426003: [563, 100]
+    /Basler_21426009: [595, 319]
+  display:
+    display_server1/fullscreen: [1152, 216]
+- cameras:
+    /Basler_21425986: [147, 89]
+    /Basler_21426003: [555, 120]
+    /Basler_21426009: [581, 315]
+  display:
+    display_server1/fullscreen: [1152, 324]
+- cameras:
+    /Basler_21425986: [150, 109]
+    /Basler_21426003: [548, 139]
+    /Basler_21426009: [568, 310]
+  display:
+    display_server1/fullscreen: [1152, 432]
+- cameras:
+    /Basler_21425986: [154, 128]
+    /Basler_21426003: [541, 157]
+    /Basler_21426009: [557, 307]
+  display:
+    display_server1/fullscreen: [1152, 540]
+- cameras:
+    /Basler_21425986: [158, 146]
+    /Basler_21426003: [534, 175]
+    /Basler_21426009: [546, 303]
+  display:
+    display_server1/fullscreen: [1152, 648]
+- cameras:
+    /Basler_21425986: [161, 164]
+    /Basler_21426003: [528, 191]
+    /Basler_21426009: [537, 300]
+  display:
+    display_server1/fullscreen: [1152, 756]
+- cameras:
+    /Basler_21425986: [165, 181]
+    /Basler_21426003: [521, 207]
+    /Basler_21426009: [528, 297]
+  display:
+    display_server1/fullscreen: [1152, 864]
+- cameras:
+    /Basler_21425986: [169, 197]
+    /Basler_21426003: [514, 222]
+    /Basler_21426009: [520, 295]
+  display:
+    display_server1/fullscreen: [1152, 972]
+- cameras:
+    /Basler_21425986: [175, 17]
+    /Basler_21426003: [616, 79]
+    /Basler_21426009: [620, 383]
+  display:
+    display_server1/fullscreen: [1344, 1]
+- cameras:
+    /Basler_21425986: [177, 36]
+    /Basler_21426003: [608, 98]
+    /Basler_21426009: [606, 375]
+  display:
+    display_server1/fullscreen: [1344, 108]
+- cameras:
+    /Basler_21425986: [180, 57]
+    /Basler_21426003: [600, 119]
+    /Basler_21426009: [591, 368]
+  display:
+    display_server1/fullscreen: [1344, 216]
+- cameras:
+    /Basler_21425986: [182, 77]
+    /Basler_21426003: [591, 139]
+    /Basler_21426009: [578, 361]
+  display:
+    display_server1/fullscreen: [1344, 324]
+- cameras:
+    /Basler_21425986: [185, 97]
+    /Basler_21426003: [583, 158]
+    /Basler_21426009: [565, 355]
+  display:
+    display_server1/fullscreen: [1344, 432]
+- cameras:
+    /Basler_21425986: [188, 116]
+    /Basler_21426003: [575, 176]
+    /Basler_21426009: [554, 349]
+  display:
+    display_server1/fullscreen: [1344, 540]
+- cameras:
+    /Basler_21425986: [190, 134]
+    /Basler_21426003: [567, 194]
+    /Basler_21426009: [544, 344]
+  display:
+    display_server1/fullscreen: [1344, 648]
+- cameras:
+    /Basler_21425986: [193, 151]
+    /Basler_21426003: [559, 210]
+    /Basler_21426009: [535, 339]
+  display:
+    display_server1/fullscreen: [1344, 756]
+- cameras:
+    /Basler_21425986: [196, 168]
+    /Basler_21426003: [551, 225]
+    /Basler_21426009: [526, 335]
+  display:
+    display_server1/fullscreen: [1344, 864]
+- cameras:
+    /Basler_21425986: [199, 184]
+    /Basler_21426003: [544, 240]
+    /Basler_21426009: [518, 330]
+  display:
+    display_server1/fullscreen: [1344, 972]
+- cameras:
+    /Basler_21425986: [210, 9]
+    /Basler_21426003: [651, 98]
+    /Basler_21426009: [612, 430]
+  display:
+    display_server1/fullscreen: [1536, 1]
+- cameras:
+    /Basler_21425986: [211, 27]
+    /Basler_21426003: [645, 119]
+    /Basler_21426009: [600, 421]
+  display:
+    display_server1/fullscreen: [1536, 108]
+- cameras:
+    /Basler_21425986: [212, 48]
+    /Basler_21426003: [634, 138]
+    /Basler_21426009: [586, 411]
+  display:
+    display_server1/fullscreen: [1536, 216]
+- cameras:
+    /Basler_21425986: [214, 67]
+    /Basler_21426003: [624, 158]
+    /Basler_21426009: [573, 402]
+  display:
+    display_server1/fullscreen: [1536, 324]
+- cameras:
+    /Basler_21425986: [216, 87]
+    /Basler_21426003: [615, 177]
+    /Basler_21426009: [562, 395]
+  display:
+    display_server1/fullscreen: [1536, 432]
+- cameras:
+    /Basler_21425986: [218, 105]
+    /Basler_21426003: [605, 195]
+    /Basler_21426009: [551, 386]
+  display:
+    display_server1/fullscreen: [1536, 540]
+- cameras:
+    /Basler_21425986: [220, 123]
+    /Basler_21426003: [597, 212]
+    /Basler_21426009: [541, 380]
+  display:
+    display_server1/fullscreen: [1536, 648]
+- cameras:
+    /Basler_21425986: [222, 140]
+    /Basler_21426003: [588, 228]
+    /Basler_21426009: [532, 374]
+  display:
+    display_server1/fullscreen: [1536, 756]
+- cameras:
+    /Basler_21425986: [224, 156]
+    /Basler_21426003: [579, 243]
+    /Basler_21426009: [524, 368]
+  display:
+    display_server1/fullscreen: [1536, 864]
+- cameras:
+    /Basler_21425986: [226, 172]
+    /Basler_21426003: [571, 257]
+    /Basler_21426009: [516, 363]
+  display:
+    display_server1/fullscreen: [1536, 972]
+- cameras:
+    /Basler_21425986: [218, 10]
+    /Basler_21426018: [13, 130]
+  display:
+    display_server0/fullscreen: [1, 1]
+- cameras:
+    /Basler_21425986: [219, 29]
+    /Basler_21426009: [586, 426]
+    /Basler_21426018: [24, 160]
+  display:
+    display_server0/fullscreen: [1, 108]
+- cameras:
+    /Basler_21425986: [221, 50]
+    /Basler_21426009: [574, 416]
+    /Basler_21426018: [37, 189]
+  display:
+    display_server0/fullscreen: [1, 216]
+- cameras:
+    /Basler_21425986: [223, 70]
+    /Basler_21426009: [562, 407]
+    /Basler_21426018: [49, 216]
+  display:
+    display_server0/fullscreen: [1, 324]
+- cameras:
+    /Basler_21425986: [224, 89]
+    /Basler_21426009: [550, 398]
+    /Basler_21426018: [60, 240]
+  display:
+    display_server0/fullscreen: [1, 432]
+- cameras:
+    /Basler_21425986: [226, 108]
+    /Basler_21426018: [71, 261]
+  display:
+    display_server0/fullscreen: [1, 540]
+- cameras:
+    /Basler_21425986: [228, 127]
+    /Basler_21426018: [81, 280]
+  display:
+    display_server0/fullscreen: [1, 648]
+- cameras:
+    /Basler_21425986: [230, 143]
+    /Basler_21426018: [90, 297]
+  display:
+    display_server0/fullscreen: [1, 756]
+- cameras:
+    /Basler_21425986: [232, 161]
+    /Basler_21426018: [98, 312]
+  display:
+    display_server0/fullscreen: [1, 864]
+- cameras:
+    /Basler_21425986: [233, 176]
+    /Basler_21426018: [106, 326]
+  display:
+    display_server0/fullscreen: [1, 972]
+- cameras:
+    /Basler_21425986: [237, 17]
+    /Basler_21426009: [554, 443]
+    /Basler_21426018: [74, 102]
+  display:
+    display_server0/fullscreen: [192, 1]
+- cameras:
+    /Basler_21425986: [238, 38]
+    /Basler_21426009: [543, 432]
+    /Basler_21426018: [82, 132]
+  display:
+    display_server0/fullscreen: [192, 108]
+- cameras:
+    /Basler_21425986: [240, 59]
+    /Basler_21426009: [532, 421]
+    /Basler_21426018: [91, 162]
+  display:
+    display_server0/fullscreen: [192, 216]
+- cameras:
+    /Basler_21425986: [241, 81]
+    /Basler_21426009: [521, 411]
+    /Basler_21426018: [99, 189]
+  display:
+    display_server0/fullscreen: [192, 324]
+- cameras:
+    /Basler_21425986: [243, 101]
+    /Basler_21426009: [511, 402]
+    /Basler_21426018: [108, 214]
+  display:
+    display_server0/fullscreen: [192, 432]
+- cameras:
+    /Basler_21425986: [244, 121]
+    /Basler_21426009: [503, 394]
+    /Basler_21426018: [115, 236]
+  display:
+    display_server0/fullscreen: [192, 540]
+- cameras:
+    /Basler_21425986: [246, 139]
+    /Basler_21426009: [495, 387]
+    /Basler_21426018: [123, 255]
+  display:
+    display_server0/fullscreen: [192, 648]
+- cameras:
+    /Basler_21425986: [247, 157]
+    /Basler_21426009: [488, 380]
+    /Basler_21426018: [129, 273]
+  display:
+    display_server0/fullscreen: [192, 756]
+- cameras:
+    /Basler_21425986: [249, 174]
+    /Basler_21426009: [481, 373]
+    /Basler_21426018: [136, 289]
+  display:
+    display_server0/fullscreen: [192, 864]
+- cameras:
+    /Basler_21425986: [250, 190]
+    /Basler_21426009: [475, 368]
+    /Basler_21426018: [142, 303]
+  display:
+    display_server0/fullscreen: [192, 972]
+- cameras:
+    /Basler_21425986: [261, 26]
+    /Basler_21426009: [502, 449]
+    /Basler_21426018: [137, 78]
+  display:
+    display_server0/fullscreen: [384, 1]
+- cameras:
+    /Basler_21425986: [261, 48]
+    /Basler_21426009: [493, 438]
+    /Basler_21426018: [142, 107]
+  display:
+    display_server0/fullscreen: [384, 108]
+- cameras:
+    /Basler_21425986: [262, 71]
+    /Basler_21426009: [484, 426]
+    /Basler_21426018: [147, 137]
+  display:
+    display_server0/fullscreen: [384, 216]
+- cameras:
+    /Basler_21425986: [263, 94]
+    /Basler_21426009: [476, 416]
+    /Basler_21426018: [152, 164]
+  display:
+    display_server0/fullscreen: [384, 324]
+- cameras:
+    /Basler_21425986: [264, 115]
+    /Basler_21426009: [469, 406]
+    /Basler_21426018: [157, 189]
+  display:
+    display_server0/fullscreen: [384, 432]
+- cameras:
+    /Basler_21425986: [266, 135]
+    /Basler_21426009: [461, 397]
+    /Basler_21426018: [161, 211]
+  display:
+    display_server0/fullscreen: [384, 540]
+- cameras:
+    /Basler_21425986: [267, 155]
+    /Basler_21426009: [455, 389]
+    /Basler_21426018: [166, 231]
+  display:
+    display_server0/fullscreen: [384, 648]
+- cameras:
+    /Basler_21425986: [268, 173]
+    /Basler_21426009: [449, 382]
+    /Basler_21426018: [170, 249]
+  display:
+    display_server0/fullscreen: [384, 756]
+- cameras:
+    /Basler_21425986: [269, 191]
+    /Basler_21426009: [445, 376]
+    /Basler_21426018: [174, 266]
+  display:
+    display_server0/fullscreen: [384, 864]
+- cameras:
+    /Basler_21425986: [270, 208]
+    /Basler_21426009: [440, 370]
+    /Basler_21426018: [178, 281]
+  display:
+    display_server0/fullscreen: [384, 972]
+- cameras:
+    /Basler_21425986: [288, 37]
+    /Basler_21426009: [446, 455]
+    /Basler_21426018: [195, 59]
+  display:
+    display_server0/fullscreen: [576, 1]
+- cameras:
+    /Basler_21425986: [288, 60]
+    /Basler_21426009: [440, 442]
+    /Basler_21426018: [197, 87]
+  display:
+    display_server0/fullscreen: [576, 108]
+- cameras:
+    /Basler_21425986: [288, 85]
+    /Basler_21426009: [434, 430]
+    /Basler_21426018: [199, 115]
+  display:
+    display_server0/fullscreen: [576, 216]
+- cameras:
+    /Basler_21425986: [289, 108]
+    /Basler_21426009: [428, 419]
+    /Basler_21426018: [201, 142]
+  display:
+    display_server0/fullscreen: [576, 324]
+- cameras:
+    /Basler_21425986: [289, 131]
+    /Basler_21426009: [423, 409]
+    /Basler_21426018: [203, 166]
+  display:
+    display_server0/fullscreen: [576, 432]
+- cameras:
+    /Basler_21425986: [290, 152]
+    /Basler_21426009: [418, 400]
+    /Basler_21426018: [205, 189]
+  display:
+    display_server0/fullscreen: [576, 540]
+- cameras:
+    /Basler_21425986: [290, 172]
+    /Basler_21426009: [414, 391]
+    /Basler_21426018: [207, 209]
+  display:
+    display_server0/fullscreen: [576, 648]
+- cameras:
+    /Basler_21425986: [291, 191]
+    /Basler_21426009: [410, 384]
+    /Basler_21426018: [209, 227]
+  display:
+    display_server0/fullscreen: [576, 756]
+- cameras:
+    /Basler_21425986: [292, 209]
+    /Basler_21426009: [407, 378]
+    /Basler_21426018: [211, 244]
+  display:
+    display_server0/fullscreen: [576, 864]
+- cameras:
+    /Basler_21425986: [292, 226]
+    /Basler_21426009: [404, 371]
+    /Basler_21426018: [213, 260]
+  display:
+    display_server0/fullscreen: [576, 972]
+- cameras:
+    /Basler_21425986: [319, 50]
+    /Basler_21426009: [387, 458]
+    /Basler_21426018: [247, 44]
+  display:
+    display_server0/fullscreen: [768, 1]
+- cameras:
+    /Basler_21425986: [319, 75]
+    /Basler_21426009: [384, 445]
+    /Basler_21426018: [247, 70]
+  display:
+    display_server0/fullscreen: [768, 108]
+- cameras:
+    /Basler_21425986: [318, 101]
+    /Basler_21426009: [381, 432]
+    /Basler_21426018: [246, 98]
+  display:
+    display_server0/fullscreen: [768, 216]
+- cameras:
+    /Basler_21425986: [318, 126]
+    /Basler_21426009: [378, 421]
+    /Basler_21426018: [246, 123]
+  display:
+    display_server0/fullscreen: [768, 324]
+- cameras:
+    /Basler_21425986: [318, 149]
+    /Basler_21426009: [375, 411]
+    /Basler_21426018: [246, 147]
+  display:
+    display_server0/fullscreen: [768, 432]
+- cameras:
+    /Basler_21425986: [317, 171]
+    /Basler_21426009: [373, 401]
+    /Basler_21426018: [246, 169]
+  display:
+    display_server0/fullscreen: [768, 540]
+- cameras:
+    /Basler_21425986: [317, 192]
+    /Basler_21426009: [371, 393]
+    /Basler_21426018: [246, 189]
+  display:
+    display_server0/fullscreen: [768, 648]
+- cameras:
+    /Basler_21425986: [317, 211]
+    /Basler_21426009: [369, 386]
+    /Basler_21426018: [246, 207]
+  display:
+    display_server0/fullscreen: [768, 756]
+- cameras:
+    /Basler_21425986: [317, 230]
+    /Basler_21426009: [369, 379]
+    /Basler_21426018: [246, 224]
+  display:
+    display_server0/fullscreen: [768, 864]
+- cameras:
+    /Basler_21425986: [317, 247]
+    /Basler_21426009: [366, 372]
+    /Basler_21426018: [247, 240]
+  display:
+    display_server0/fullscreen: [768, 972]
+- cameras:
+    /Basler_21425986: [356, 66]
+    /Basler_21426009: [327, 459]
+    /Basler_21426018: [293, 33]
+  display:
+    display_server0/fullscreen: [960, 1]
+- cameras:
+    /Basler_21425986: [355, 92]
+    /Basler_21426009: [327, 446]
+    /Basler_21426018: [290, 57]
+  display:
+    display_server0/fullscreen: [960, 108]
+- cameras:
+    /Basler_21425986: [353, 119]
+    /Basler_21426009: [327, 433]
+    /Basler_21426018: [288, 83]
+  display:
+    display_server0/fullscreen: [960, 216]
+- cameras:
+    /Basler_21425986: [351, 145]
+    /Basler_21426009: [327, 422]
+    /Basler_21426018: [286, 107]
+  display:
+    display_server0/fullscreen: [960, 324]
+- cameras:
+    /Basler_21425986: [350, 170]
+    /Basler_21426009: [327, 412]
+    /Basler_21426018: [284, 130]
+  display:
+    display_server0/fullscreen: [960, 432]
+- cameras:
+    /Basler_21425986: [348, 193]
+    /Basler_21426009: [328, 402]
+    /Basler_21426018: [283, 151]
+  display:
+    display_server0/fullscreen: [960, 540]
+- cameras:
+    /Basler_21425986: [347, 214]
+    /Basler_21426009: [328, 394]
+    /Basler_21426018: [281, 171]
+  display:
+    display_server0/fullscreen: [960, 648]
+- cameras:
+    /Basler_21425986: [346, 234]
+    /Basler_21426009: [328, 386]
+    /Basler_21426018: [280, 189]
+  display:
+    display_server0/fullscreen: [960, 756]
+- cameras:
+    /Basler_21425986: [345, 252]
+    /Basler_21426009: [328, 379]
+    /Basler_21426018: [279, 206]
+  display:
+    display_server0/fullscreen: [960, 864]
+- cameras:
+    /Basler_21425986: [344, 269]
+    /Basler_21426009: [329, 373]
+    /Basler_21426018: [278, 222]
+  display:
+    display_server0/fullscreen: [960, 972]
+- cameras:
+    /Basler_21425986: [399, 85]
+    /Basler_21426009: [266, 458]
+    /Basler_21426018: [332, 25]
+  display:
+    display_server0/fullscreen: [1152, 1]
+- cameras:
+    /Basler_21425986: [396, 112]
+    /Basler_21426009: [270, 446]
+    /Basler_21426018: [328, 47]
+  display:
+    display_server0/fullscreen: [1152, 108]
+- cameras:
+    /Basler_21425986: [393, 141]
+    /Basler_21426009: [273, 433]
+    /Basler_21426018: [325, 72]
+  display:
+    display_server0/fullscreen: [1152, 216]
+- cameras:
+    /Basler_21425986: [389, 168]
+    /Basler_21426009: [277, 421]
+    /Basler_21426018: [321, 94]
+  display:
+    display_server0/fullscreen: [1152, 324]
+- cameras:
+    /Basler_21425986: [386, 194]
+    /Basler_21426009: [280, 411]
+    /Basler_21426018: [318, 116]
+  display:
+    display_server0/fullscreen: [1152, 432]
+- cameras:
+    /Basler_21425986: [383, 217]
+    /Basler_21426009: [282, 402]
+    /Basler_21426018: [315, 136]
+  display:
+    display_server0/fullscreen: [1152, 540]
+- cameras:
+    /Basler_21425986: [381, 239]
+    /Basler_21426009: [285, 394]
+    /Basler_21426018: [313, 155]
+  display:
+    display_server0/fullscreen: [1152, 648]
+- cameras:
+    /Basler_21425986: [378, 258]
+    /Basler_21426009: [288, 386]
+    /Basler_21426018: [310, 173]
+  display:
+    display_server0/fullscreen: [1152, 756]
+- cameras:
+    /Basler_21425986: [376, 277]
+    /Basler_21426009: [289, 379]
+    /Basler_21426018: [308, 189]
+  display:
+    display_server0/fullscreen: [1152, 864]
+- cameras:
+    /Basler_21425986: [373, 294]
+    /Basler_21426009: [291, 373]
+    /Basler_21426018: [306, 205]
+  display:
+    display_server0/fullscreen: [1152, 972]
+- cameras:
+    /Basler_21425986: [449, 108]
+    /Basler_21426009: [207, 455]
+    /Basler_21426018: [365, 19]
+  display:
+    display_server0/fullscreen: [1344, 1]
+- cameras:
+    /Basler_21425986: [438, 167]
+    /Basler_21426009: [221, 431]
+    /Basler_21426018: [356, 62]
+  display:
+    display_server0/fullscreen: [1344, 216]
+- cameras:
+    /Basler_21425986: [432, 195]
+    /Basler_21426009: [227, 420]
+    /Basler_21426018: [352, 84]
+  display:
+    display_server0/fullscreen: [1344, 324]
+- cameras:
+    /Basler_21425986: [427, 221]
+    /Basler_21426009: [233, 410]
+    /Basler_21426018: [348, 104]
+  display:
+    display_server0/fullscreen: [1344, 432]
+- cameras:
+    /Basler_21425986: [422, 244]
+    /Basler_21426009: [238, 401]
+    /Basler_21426018: [345, 123]
+  display:
+    display_server0/fullscreen: [1344, 540]
+- cameras:
+    /Basler_21425986: [418, 266]
+    /Basler_21426009: [243, 393]
+    /Basler_21426018: [341, 141]
+  display:
+    display_server0/fullscreen: [1344, 648]
+- cameras:
+    /Basler_21425986: [413, 286]
+    /Basler_21426009: [247, 385]
+    /Basler_21426018: [338, 159]
+  display:
+    display_server0/fullscreen: [1344, 756]
+- cameras:
+    /Basler_21425986: [409, 304]
+    /Basler_21426009: [251, 378]
+    /Basler_21426018: [335, 175]
+  display:
+    display_server0/fullscreen: [1344, 864]
+- cameras:
+    /Basler_21425986: [405, 320]
+    /Basler_21426009: [254, 372]
+    /Basler_21426018: [332, 190]
+  display:
+    display_server0/fullscreen: [1344, 972]
+- cameras:
+    /Basler_21425986: [505, 136]
+    /Basler_21426009: [153, 451]
+    /Basler_21426018: [393, 14]
+  display:
+    display_server0/fullscreen: [1536, 1]
+- cameras:
+    /Basler_21425986: [497, 166]
+    /Basler_21426009: [162, 439]
+    /Basler_21426018: [388, 33]
+  display:
+    display_server0/fullscreen: [1536, 108]
+- cameras:
+    /Basler_21425986: [488, 197]
+    /Basler_21426009: [172, 428]
+    /Basler_21426018: [384, 54]
+  display:
+    display_server0/fullscreen: [1536, 216]
+- cameras:
+    /Basler_21425986: [480, 225]
+    /Basler_21426009: [180, 417]
+    /Basler_21426018: [379, 75]
+  display:
+    display_server0/fullscreen: [1536, 324]
+- cameras:
+    /Basler_21425986: [472, 251]
+    /Basler_21426009: [188, 408]
+    /Basler_21426018: [375, 94]
+  display:
+    display_server0/fullscreen: [1536, 432]
+- cameras:
+    /Basler_21425986: [464, 274]
+    /Basler_21426009: [195, 399]
+    /Basler_21426018: [371, 112]
+  display:
+    display_server0/fullscreen: [1536, 540]
+- cameras:
+    /Basler_21425986: [458, 295]
+    /Basler_21426009: [202, 391]
+    /Basler_21426018: [367, 130]
+  display:
+    display_server0/fullscreen: [1536, 648]
+- cameras:
+    /Basler_21425986: [451, 315]
+    /Basler_21426009: [208, 384]
+    /Basler_21426018: [363, 146]
+  display:
+    display_server0/fullscreen: [1536, 756]
+- cameras:
+    /Basler_21425986: [445, 332]
+    /Basler_21426009: [213, 377]
+    /Basler_21426018: [359, 162]
+  display:
+    display_server0/fullscreen: [1536, 864]
+- cameras:
+    /Basler_21425986: [440, 348]
+    /Basler_21426009: [218, 371]
+    /Basler_21426018: [356, 177]
+  display:
+    display_server0/fullscreen: [1536, 972]
+- cameras:
+    /Basler_21425986: [566, 169]
+    /Basler_21426009: [102, 444]
+    /Basler_21426018: [417, 10]
+  display:
+    display_server0/fullscreen: [1728, 1]
+- cameras:
+    /Basler_21425986: [555, 199]
+    /Basler_21426009: [113, 434]
+    /Basler_21426018: [412, 29]
+  display:
+    display_server0/fullscreen: [1728, 108]
+- cameras:
+    /Basler_21425986: [543, 230]
+    /Basler_21426009: [125, 423]
+    /Basler_21426018: [407, 48]
+  display:
+    display_server0/fullscreen: [1728, 216]
+- cameras:
+    /Basler_21425986: [531, 258]
+    /Basler_21426009: [136, 413]
+    /Basler_21426018: [403, 67]
+  display:
+    display_server0/fullscreen: [1728, 324]
+- cameras:
+    /Basler_21425986: [520, 284]
+    /Basler_21426009: [146, 404]
+    /Basler_21426018: [398, 85]
+  display:
+    display_server0/fullscreen: [1728, 432]
+- cameras:
+    /Basler_21425986: [510, 307]
+    /Basler_21426009: [154, 396]
+    /Basler_21426018: [393, 103]
+  display:
+    display_server0/fullscreen: [1728, 540]
+- cameras:
+    /Basler_21425986: [500, 327]
+    /Basler_21426009: [163, 388]
+    /Basler_21426018: [389, 119]
+  display:
+    display_server0/fullscreen: [1728, 648]
+- cameras:
+    /Basler_21425986: [492, 346]
+    /Basler_21426009: [170, 381]
+    /Basler_21426018: [385, 135]
+  display:
+    display_server0/fullscreen: [1728, 756]
+- cameras:
+    /Basler_21425986: [484, 363]
+    /Basler_21426009: [177, 375]
+    /Basler_21426018: [381, 150]
+  display:
+    display_server0/fullscreen: [1728, 864]
+- cameras:
+    /Basler_21425986: [476, 378]
+    /Basler_21426009: [184, 369]
+    /Basler_21426018: [377, 165]
+  display:
+    display_server0/fullscreen: [1728, 972]

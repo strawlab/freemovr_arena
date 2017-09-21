@@ -1,0 +1,19 @@
+<launch>
+  
+  <rosparam command="load" file="$(find freemovr_arena)/launch/flydra_calibration.yaml" />
+
+  <node name="flydra_mainbrain" pkg="ros_flydra" type="main_brain">
+    <env name="REQUIRE_TRIGGER" value="0" />
+  </node>
+
+  <node name="trig1" pkg="triggerbox" type="triggerbox_host" args="--device=/dev/trig1">
+  </node>
+
+  <node name="flydra_camera_node" pkg="ros_flydra" type="camnode" args="--num-buffers=100  --background-frame-alpha=0.01 --background-frame-interval=80 --num-points=6">
+    <env name="LIBCAMIFACE_ARAVIS_ENABLE_RESEND" value="0" />
+    <env name="LIBCAMIFACE_ARAVIS_PACKET_SIZE" value="8000" />
+    <env name="LIBCAMIFACE_ARAVIS_DEBUG" value="0" />
+  </node>
+
+
+</launch>

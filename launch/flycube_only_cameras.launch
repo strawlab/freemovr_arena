@@ -1,0 +1,7 @@
+<launch>
+  <node name="trig1" pkg="triggerbox" type="triggerbox_host" args="--device=/dev/trig1" />
+
+  <!-- The cannonical source of camera gain, shutter speed, trigger mode is the flydra.yaml file -->
+  <include file="$(find freemovr_arena)/launch/cameras.node" />
+
+</launch>

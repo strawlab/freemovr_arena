@@ -1,0 +1,20 @@
+Basler_21426018: {gain: 370, shutter: 9900, trigger: Line1}
+Basler_21425981: {gain: 360, shutter: 9900, trigger: Line1}
+Basler_21426009: {gain: 410, shutter: 9900, trigger: Line1}
+Basler_21425986: {gain: 470, shutter: 9900, trigger: Line1}
+Basler_21426003: {gain: 480, shutter: 9900, trigger: Line1}
+
+flydra: {main_brain: 127.0.0.1}
+
+flydra_camera_node1: {cams_only: 'Basler-21426018'}
+flydra_camera_node2: {cams_only: 'Basler-21425981'}
+flydra_camera_node3: {cams_only: 'Basler-21426009'}
+flydra_camera_node4: {cams_only: 'Basler-21425986'}
+flydra_camera_node5: {cams_only: 'Basler-21426003'}
+
+flydra_mainbrain: {frames_per_second: 100.0, hypothesis_test_max_acceptable_error: 5.0,
+  kalman_model: 'EKF mamarama, units: mm', max_N_hypothesis_test: 3, max_reconstruction_latency_sec: 0.06,
+  save_data_dir: '~/FLYDRA',
+  camera_calibration: 'package://freemovr_arena/calibration/cal20160826-aligned.xml',
+  use_unix_domain_sockets: true,
+  }

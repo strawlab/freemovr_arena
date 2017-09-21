@@ -1,0 +1,31 @@
+display_servers:
+  display_server0:
+    height: 1080
+    virtualDisplays:
+    - {id: fullscreen}
+    width: 1920
+  display_server1:
+    height: 1080
+    virtualDisplays:
+    - {id: fullscreen}
+    width: 1920
+  display_server2:
+    height: 1080
+    virtualDisplays:
+    - {id: fullscreen}
+    width: 1920
+  display_server3:
+    height: 1080
+    virtualDisplays:
+    - {id: fullscreen}
+    width: 1920
+  display_server4:
+    height: 1080
+    virtualDisplays:
+    - {id: fullscreen}
+    width: 1920
+tracking_cameras: [/Basler_21426018, /Basler_21425981, /Basler_21426009, /Basler_21425986, /Basler_21426003]
+tracking_calibration: package://freemovr_arena/calibration/20160826_110201.mainbrain.h5.recal/result
+projector_point_size_px: 20
+projector_sleep: 0.2
+bg_thresh_visible: 10

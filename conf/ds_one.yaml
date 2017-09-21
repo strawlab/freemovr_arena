@@ -1,0 +1,20 @@
+display:
+  displayNum: 0
+  screenNum: 0
+  width: 5760
+  height: 2160
+  windowDecoration: false
+  x: 1920
+  y: 0
+  virtualDisplays:
+  - id: fullscreen
+    viewport:
+    - [0, 0]
+    - [5760, 0]
+    - [5760, 2160]
+    - [0, 2160]
+geom:
+  model: from_file
+  filename: $(find freemovr_arena)/conf/flycube.osg
+p2g: (find freemovr_arena)/calibration/monitor_5760x2160.exr
+tethered_mode: False

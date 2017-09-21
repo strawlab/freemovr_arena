@@ -1,0 +1,9 @@
+<launch>
+  <include file="$(find freemovr_arena)/launch/displayserver_one.node" />
+  <include file="$(find freemovr_arena)/launch/flydra.node" />
+
+  <node name="flydra2ros" pkg="ros_flydra" type="flydra2ros"/>
+  <node name="flydra2rviz" pkg="ros_flydra" type="flydra2rviz"/>
+  <node name="flydra2stats" pkg="ros_flydra" type="flydra2stats"/>
+
+</launch>

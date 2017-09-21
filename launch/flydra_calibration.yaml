@@ -1,0 +1,11 @@
+Basler_21426018: {gain: 220, shutter: 150, trigger: Line1}
+Basler_21425981: {gain: 220, shutter: 150, trigger: Line1}
+Basler_21426009: {gain: 220, shutter: 150, trigger: Line1}
+Basler_21425986: {gain: 220, shutter: 150, trigger: Line1}
+Basler_21426003: {gain: 220, shutter: 150, trigger: Line1}
+
+flydra: {main_brain: 127.0.0.1}
+flydra_camera_node: {cams_only: 'Basler-21426018,Basler-21425981,Basler-21426009,Basler-21425986,Basler-21426003'}
+flydra_mainbrain: {frames_per_second: 100.0, hypothesis_test_max_acceptable_error: 5.0,
+  kalman_model: 'EKF mamarama, units: mm', max_N_hypothesis_test: 3, max_reconstruction_latency_sec: 0.06,
+  save_data_dir: '~/FLYDRA', camera_calibration: ''}

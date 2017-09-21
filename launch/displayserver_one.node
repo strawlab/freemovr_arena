@@ -1,0 +1,5 @@
+<launch>
+  <node name="display_server" pkg="flyvr" type="display_server" respawn="true">
+    <rosparam command="load" file="$(find freemovr_arena)/conf/ds_one.yaml" />
+  </node>
+</launch>

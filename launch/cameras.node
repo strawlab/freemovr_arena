@@ -1,0 +1,25 @@
+<launch>
+
+  <rosparam command="load" file="$(find freemovr_arena)/launch/flydra.yaml" />
+
+  <node name="Basler_21426018" pkg="camiface_ros" type="camnode">
+    <param name="device_guid" type="str" value="Basler-21426018" />
+  </node>
+
+  <node name="Basler_21425981" pkg="camiface_ros" type="camnode">
+    <param name="device_guid" type="str" value="Basler-21425981" />
+  </node>
+
+  <node name="Basler_21426009" pkg="camiface_ros" type="camnode">
+    <param name="device_guid" type="str" value="Basler-21426009" />
+  </node>
+
+  <node name="Basler_21425986" pkg="camiface_ros" type="camnode">
+    <param name="device_guid" type="str" value="Basler-21425986" />
+  </node>
+
+  <node name="Basler_21426003" pkg="camiface_ros" type="camnode">
+    <param name="device_guid" type="str" value="Basler-21426003" />
+  </node>
+
+</launch>
